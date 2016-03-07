@@ -1,0 +1,2 @@
+#https://umwa.memphis.edu/fcv/login.php
+Your browser does not support Javascript. This page requires a secure connection, please use the following URL: University of Memphis CV and Profile - Version 3.0 Help | Logout/Exit CV and Profile Application - Version 3.0 (Release Date:10/15/2009) Added the ability for administrators and staff to maintain a profile. Updated the graphics and labels to reflect the new name. User ID Password

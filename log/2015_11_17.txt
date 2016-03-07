@@ -1,0 +1,1411 @@
+2015-11-17 23:07:24.452656	Thread 0 pushed to busy thread list
+2015-11-17 23:07:24.456656	Thread 0, Total load=1 Crawled=0, Crawling http://www.memphis.edu
+2015-11-17 23:07:29.812963	Thread 1 pushed to busy thread list
+2015-11-17 23:07:29.816963	Thread 1, Total load=100 Crawled=0, Crawling http://www.memphis.edu/lambuth/
+2015-11-17 23:07:29.816963	Thread 2 pushed to busy thread list
+2015-11-17 23:07:29.822963	Thread 2, Total load=34 Crawled=0, Crawling http://www.memphis.edu/gradschool/programs/
+2015-11-17 23:07:32.889139	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily: https://my.memphis.edu/cp/home/displaylogin
+2015-11-17 23:07:34.817249	Thread 0 deleted
+2015-11-17 23:07:36.431341	Thread 3 pushed to busy thread list
+2015-11-17 23:07:36.435341	Thread 3, Total load=70 Crawled=0, Crawling http://www.memphis.edu/accountancy/
+2015-11-17 23:07:38.157440	Thread 1, Total load=100 Crawled=1, Crawling https://my.memphis.edu
+2015-11-17 23:07:40.069549	Thread 4 pushed to busy thread list
+2015-11-17 23:07:40.069549	Thread 1 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:07:40.074550	Thread 4, Total load=18 Crawled=0, Crawling http://www.memphis.edu/accountancy/programs/
+2015-11-17 23:07:41.435627	Thread 2, Total load=34 Crawled=1, Crawling http://www.memphis.edu/gradschool/programs/graduatecertificates.php
+2015-11-17 23:07:45.049834	Thread 3, Total load=70 Crawled=1, Crawling http://www.memphis.edu/lead/
+2015-11-17 23:07:45.082836	Thread 1, Total load=100 Crawled=2, Crawling http://www.memphis.edu/fac_staff/
+2015-11-17 23:07:46.471915	Thread 5 pushed to busy thread list
+2015-11-17 23:07:46.475916	Thread 5, Total load=45 Crawled=0, Crawling http://www.memphis.edu/accountancy/programs/bba.php
+2015-11-17 23:07:48.301020	Thread 4, Total load=18 Crawled=1, Crawling http://www.memphis.edu/accountancy/admissions/
+2015-11-17 23:07:51.476202	Thread 2, Total load=34 Crawled=2, Crawling http://www.memphis.edu/gradschool/programs/ranked_programs.php
+2015-11-17 23:07:52.778276	Thread 6 pushed to busy thread list
+2015-11-17 23:07:52.782276	Thread 6, Total load=31 Crawled=0, Crawling http://www.memphis.edu/lead/hiad/
+2015-11-17 23:07:54.349366	Thread 3, Total load=70 Crawled=2, Crawling http://www.memphis.edu/lambuth/classes/
+2015-11-17 23:07:57.782562	Thread 1, Total load=100 Crawled=3, Crawling http://www.memphis.edu/contact/
+2015-11-17 23:08:00.536720	Thread 5, Total load=45 Crawled=1, Crawling http://www.memphis.edu/accountancy/programs/ms.php
+2015-11-17 23:08:02.099809	Thread 7 pushed to busy thread list
+2015-11-17 23:08:02.105810	Thread 7, Total load=2 Crawled=0, Crawling http://www.memphis.edu/ugcatalog/collegeprog/fcbe/acct.php
+2015-11-17 23:08:03.323879	Thread 4, Total load=18 Crawled=2, Crawling http://www.memphis.edu/accountancy/faculty/
+2015-11-17 23:08:07.105096	Thread 2, Total load=34 Crawled=3, Crawling http://www.memphis.edu/uofmonline/Programs/undergraduateprograms.php
+2015-11-17 23:08:09.993261	Thread 6, Total load=31 Crawled=1, Crawling http://www.memphis.edu/lead/ldps/
+2015-11-17 23:08:12.912428	Thread 3, Total load=70 Crawled=3, Crawling http://www.memphis.edu/lambuth/admissions/
+2015-11-17 23:08:13.737475	Thread 8 pushed to busy thread list
+2015-11-17 23:08:13.744475	Thread 8, Total load=22 Crawled=0, Crawling http://www.memphis.edu/lead/hiad/hiad_resources.php
+2015-11-17 23:08:15.784592	Thread 1, Total load=100 Crawled=4, Crawling http://www.memphis.edu/web-directory/
+2015-11-17 23:08:18.742761	Thread 5, Total load=45 Crawled=2, Crawling http://www.memphis.edu/accountancy/programs/phd.php
+2015-11-17 23:08:21.847939	Thread 7, Total load=2 Crawled=1, Crawling http://www.memphis.edu/graduateadmissions/future/nondegree.php
+2015-11-17 23:08:24.936115	Thread 4, Total load=18 Crawled=3, Crawling http://www.memphis.edu/accountancy/courses/
+2015-11-17 23:08:28.033293	Thread 2, Total load=34 Crawled=4, Crawling http://www.memphis.edu/uofmonline/Programs/graduateprograms.php
+2015-11-17 23:08:28.848339	Thread 9 pushed to busy thread list
+2015-11-17 23:08:28.852339	Thread 9, Total load=58 Crawled=0, Crawling http://www.memphis.edu/ugcatalog/collegeprog/fcbe/
+2015-11-17 23:08:30.808451	Thread 6, Total load=31 Crawled=2, Crawling http://www.memphis.edu/lead/faculty/
+2015-11-17 23:08:31.596496	HTTP Error 404: Not Found: http://www.memphis.edu/registrar/student/selfserv/quick.htm
+2015-11-17 23:08:31.672501	HTTP Error 404: Not Found: http://www.memphis.edu/cehhs/graduate-graduation.htm
+2015-11-17 23:08:33.852625	Thread 3, Total load=70 Crawled=4, Crawling http://www.memphis.edu/lambuth/campuslife/
+2015-11-17 23:08:37.018807	HTTP Error 404: Not Found: http://www.memphis.edu/gradcert.htm
+2015-11-17 23:08:38.394885	Thread 8, Total load=22 Crawled=1, Crawling http://www.memphis.edu/lead/pdfs/hiaddoctoralhandbook.pdf
+2015-11-17 23:08:41.213046	HTTP Error 404: Not Found: http://www.memphis.edu/researchsupport/compliance.php
+2015-11-17 23:08:44.722247	Thread 8, Total load=22 Crawled=2, Crawling http://www.memphis.edu/lead/hiad/portfolio_req.php
+2015-11-17 23:08:45.381285	HTTP Error 404: Not Found: http://www.memphis.edu/extended/bartlett.php
+2015-11-17 23:08:45.453289	HTTP Error 404: Not Found: http://www.memphis.edu/extended/dyersburg.php
+2015-11-17 23:08:50.682588	Thread 1, Total load=100 Crawled=5, Crawling http://www.memphis.edu/academics/
+2015-11-17 23:08:51.429631	HTTP Error 404: Not Found: http://www.memphis.edu/law/futurestudents
+2015-11-17 23:08:51.544637	HTTP Error 404: Not Found: http://www.memphis.edu/registrar/student/register
+2015-11-17 23:08:53.979777	Thread 5, Total load=45 Crawled=3, Crawling https://banssbprod.memphis.edu/pls/PROD/bwskalog.P_DispLoginNon
+2015-11-17 23:08:56.848941	Thread 7 deleted
+2015-11-17 23:08:57.749992	Thread 10 pushed to busy thread list
+2015-11-17 23:08:57.753993	Thread 10, Total load=100 Crawled=0, Crawling http://www.memphis.edu/lead/pdfs/policyongretests.pdf
+2015-11-17 23:08:59.838112	Thread 4, Total load=18 Crawled=4, Crawling http://www.memphis.edu/accountancy/publications/
+2015-11-17 23:09:02.754279	Thread 2, Total load=34 Crawled=5, Crawling http://www.memphis.edu/uofmonline/Orientation/
+2015-11-17 23:09:02.846284	Thread 10, Total load=100 Crawled=1, Crawling http://www.memphis.edu/ugcatalog/services/req_non_degree.php
+2015-11-17 23:09:05.907459	Thread 9, Total load=58 Crawled=1, Crawling http://www.memphis.edu/ugcatalog/index_univ.php
+2015-11-17 23:09:08.831626	Thread 6, Total load=31 Crawled=3, Crawling http://www.memphis.edu/lead/apply.php
+2015-11-17 23:09:11.768794	Thread 3, Total load=70 Crawled=5, Crawling http://www.memphis.edu/lambuth/reslife/
+2015-11-17 23:09:12.852856	HTTP Error 404: Not Found: https://banssbprod.memphis.edu/pls/PROD
+2015-11-17 23:09:13.129872	HTTP Error 404: Not Found: https://banssbprod.memphis.edu/pls/PROD//twbkwbis.P_GenMenu
+2015-11-17 23:09:13.135872	Thread 11 pushed to busy thread list
+2015-11-17 23:09:13.139873	Thread 11, Total load=100 Crawled=0, Crawling http://www.memphis.edu/me/
+2015-11-17 23:09:15.159988	Thread 8, Total load=22 Crawled=3, Crawling http://www.memphis.edu/lead/pdfs/hiad-guide.pdf
+2015-11-17 23:09:17.841141	Thread 1, Total load=100 Crawled=6, Crawling http://www.memphis.edu/academics/colleges-schools.php
+2015-11-17 23:09:18.137158	Thread 5, Total load=45 Crawled=4, Crawling http://www.memphis.edu/accountancy/courses/undergraduate.php
+2015-11-17 23:09:19.829255	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/uofmonline/Resources
+2015-11-17 23:09:20.280281	Thread 8, Total load=22 Crawled=4, Crawling http://www.memphis.edu/lead/hiad/leadership_ms.php
+2015-11-17 23:09:21.177332	Thread 4, Total load=18 Crawled=5, Crawling http://www.memphis.edu/accountancy/faculty/director_message.php
+2015-11-17 23:09:25.169561	Thread 2, Total load=34 Crawled=6, Crawling http://www.memphis.edu/law/current-students/degree-programs.php
+2015-11-17 23:09:27.864715	Thread 10, Total load=100 Crawled=2, Crawling http://www.memphis.edu/lead/pdfs/hiad-program-fees.pdf
+2015-11-17 23:09:30.901888	Thread 9, Total load=58 Crawled=2, Crawling http://www.memphis.edu/ugcatalog/admissions.php
+2015-11-17 23:09:31.676933	Thread 12 pushed to busy thread list
+2015-11-17 23:09:31.680933	Thread 12, Total load=100 Crawled=0, Crawling http://www.memphis.edu/studentlife/voterinformation.php
+2015-11-17 23:09:32.917004	Thread 10, Total load=100 Crawled=3, Crawling http://www.memphis.edu/lead/pdfs/so-you-want-to-teach-in-higher-edu.pdf
+2015-11-17 23:09:33.723050	Thread 6, Total load=31 Crawled=4, Crawling http://www.memphis.edu/lead/contacts.php
+2015-11-17 23:09:36.681219	Thread 3, Total load=70 Crawled=6, Crawling http://www.memphis.edu/lambuth/studentservices/
+2015-11-17 23:09:38.043297	Thread 10, Total load=100 Crawled=4, Crawling http://www.memphis.edu/lead/pdfs/what_is_doctoral_study.pdf
+2015-11-17 23:09:39.626387	Thread 11, Total load=100 Crawled=1, Crawling http://healthecon.memphis.edu
+2015-11-17 23:09:39.638388	Thread 11 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:09:43.147589	Thread 10, Total load=100 Crawled=5, Crawling http://www.memphis.edu/lead/pdfs/online-skills.pdf
+2015-11-17 23:09:43.159590	Thread 1, Total load=100 Crawled=7, Crawling http://www.memphis.edu/ugcatalog/
+2015-11-17 23:09:44.643674	Thread 11, Total load=100 Crawled=2, Crawling http://www.memphis.edu/museumstudies/
+2015-11-17 23:09:44.652675	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/studentlife
+2015-11-17 23:09:46.131760	Thread 5, Total load=45 Crawled=5, Crawling http://www.memphis.edu/accountancy/courses/graduate.php
+2015-11-17 23:09:48.281883	Thread 10, Total load=100 Crawled=6, Crawling http://www.memphis.edu/lead/pdfs/advising.pdf
+2015-11-17 23:09:50.164990	Thread 8, Total load=22 Crawled=5, Crawling http://www.memphis.edu/lead/hiad/student_personnel.php
+2015-11-17 23:09:53.059156	Thread 4, Total load=18 Crawled=6, Crawling http://www.memphis.edu/accountancy/admissions/what_do_accountants_do.php
+2015-11-17 23:09:53.412176	Thread 10, Total load=100 Crawled=7, Crawling http://www.memphis.edu/lead/pdfs/graduate_student_handbook.pdf
+2015-11-17 23:09:54.293226	Thread 13 pushed to busy thread list
+2015-11-17 23:09:54.298227	Thread 13, Total load=70 Crawled=0, Crawling http://www.memphis.edu/uofmonline/Orientation/onlinecourses.php
+2015-11-17 23:09:56.013325	Thread 2, Total load=34 Crawled=7, Crawling http://www.memphis.edu/law/current-students/course-catalog.php
+2015-11-17 23:09:59.002496	Thread 10, Total load=100 Crawled=8, Crawling http://www.memphis.edu/uofmonline/fees.php
+2015-11-17 23:09:59.297513	Thread 9, Total load=58 Crawled=3, Crawling http://www.memphis.edu/ugcatalog/prog_planning.php
+2015-11-17 23:10:02.235681	Thread 12, Total load=100 Crawled=1, Crawling http://www.memphis.edu/alumni/tigerpride/
+2015-11-17 23:10:05.080843	Thread 6, Total load=31 Crawled=5, Crawling http://www.memphis.edu/hr/
+2015-11-17 23:10:08.248025	Thread 3, Total load=70 Crawled=7, Crawling http://www.memphis.edu/lambuth/services/
+2015-11-17 23:10:11.434207	Thread 1, Total load=100 Crawled=8, Crawling http://www.memphis.edu/gradcatalog/
+2015-11-17 23:10:14.695393	Thread 11, Total load=100 Crawled=3, Crawling http://www.memphis.edu/music/
+2015-11-17 23:10:17.634561	Thread 5, Total load=45 Crawled=6, Crawling https://fcbeacad.memphis.edu/faculty/list/syllabi.php
+2015-11-17 23:10:18.721624	Thread 14 pushed to busy thread list
+2015-11-17 23:10:18.728624	Thread 14, Total load=18 Crawled=0, Crawling http://www.memphis.edu/studentlife/about.php
+2015-11-17 23:10:20.564729	Thread 8, Total load=22 Crawled=6, Crawling http://www.memphis.edu/lead/hiad/adulted_edd.php
+2015-11-17 23:10:23.727910	Thread 4, Total load=18 Crawled=7, Crawling http://www.memphis.edu/accountancy/admissions/different_kinds_accountants.php
+2015-11-17 23:10:27.044100	Thread 13, Total load=70 Crawled=1, Crawling http://www.memphis.edu/uofmonline/Orientation/academicadvising.php
+2015-11-17 23:10:30.405292	Thread 2, Total load=34 Crawled=8, Crawling http://www.memphis.edu/law/current-students/certificate-programs.php
+2015-11-17 23:10:33.496469	Thread 10, Total load=100 Crawled=9, Crawling http://www.memphis.edu/lead/hiad/graduation_requirements.php
+2015-11-17 23:10:34.903549	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/memphismatters/dec11holidaycard.php
+2015-11-17 23:10:34.915550	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/holidays/happynewyear
+2015-11-17 23:10:34.927551	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/holidays/happyholidays
+2015-11-17 23:10:34.939551	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/holidays/flash_presentations/flash_holiday07.htm
+2015-11-17 23:10:34.951552	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/holidays/flash_presentations/june08.htm
+2015-11-17 23:10:34.963553	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/holidays/flash_presentations/flash_ncaa.htm
+2015-11-17 23:10:36.730654	Thread 9, Total load=58 Crawled=4, Crawling http://www.memphis.edu/ugcatalog/fac_staff/
+2015-11-17 23:10:40.248855	Thread 12, Total load=100 Crawled=2, Crawling http://www.memphis.edu/pp/pdf/arboretum.pdf
+2015-11-17 23:10:40.512870	Thread 12 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:10:44.938123	Thread 6, Total load=31 Crawled=6, Crawling http://www.memphis.edu/hr/avp.php
+2015-11-17 23:10:45.517156	Thread 12, Total load=100 Crawled=3, Crawling http://www.memphis.edu/parking/blueline/
+2015-11-17 23:10:48.360319	Thread 3, Total load=70 Crawled=8, Crawling http://www.memphis.edu/admissions/lambuthcampustour.php
+2015-11-17 23:10:49.769399	HTTP Error 401: Unauthorized: http://music.memphis.edu/faculty/ 
+2015-11-17 23:10:51.679509	Thread 1, Total load=100 Crawled=9, Crawling http://www.memphis.edu/honors/
+2015-11-17 23:10:55.017299	Thread 11, Total load=100 Crawled=4, Crawling http://www.memphis.edu/nrotc/
+2015-11-17 23:10:57.118419	Thread 15 pushed to busy thread list
+2015-11-17 23:10:57.125419	Thread 15, Total load=100 Crawled=0, Crawling http://www.memphis.edu/uofmonline/Orientation/onlinecoursepreview.php
+2015-11-17 23:11:02.123705	Thread 5, Total load=45 Crawled=7, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-05.0201.htm
+2015-11-17 23:11:08.950096	Thread 14, Total load=18 Crawled=1, Crawling http://www.memphis.edu/studentlife/departments/
+2015-11-17 23:11:12.205282	Thread 8, Total load=22 Crawled=7, Crawling http://www.memphis.edu/lead/hiad/highered_edd.php
+2015-11-17 23:11:15.438467	Thread 4, Total load=18 Crawled=8, Crawling http://www.memphis.edu/accountancy/admissions/kinds_jobs.php
+2015-11-17 23:11:34.245542	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.memphis.edu/uofmonline/Orientation
+2015-11-17 23:11:39.907866	Thread 13, Total load=70 Crawled=2, Crawling http://www.memphis.edu/ugcatalog/services/req_freshman.php
+2015-11-17 23:11:41.549960	HTTP Error 404: Not Found: http://www.memphis.edu/gradschool/deadlines.php
+2015-11-17 23:11:41.562961	HTTP Error 404: Not Found: http://www.memphis.edu/gradschool/grad/businessmdc.php
+2015-11-17 23:11:41.674967	HTTP Error 404: Not Found: http://www.memphis.edu/gradschool/grad/howmdc.php
+2015-11-17 23:11:41.689968	HTTP Error 404: Not Found: http://www.memphis.edu/gradschool/grad/howddc.php
+2015-11-17 23:11:41.709969	HTTP Error 404: Not Found: http://www.memphis.edu/gradschool/grad/directors.php
+2015-11-17 23:11:41.733971	HTTP Error 404: Not Found: http://www.memphis.edu/cehhs/pdfs/education-specialist-form.htm
+2015-11-17 23:11:43.699083	Thread 2, Total load=34 Crawled=9, Crawling http://www.memphis.edu/abroad/
+2015-11-17 23:11:46.996272	Thread 10, Total load=100 Crawled=10, Crawling http://www.memphis.edu/lead/pdfs/immunization_exemption.pdf
+2015-11-17 23:11:50.427468	Thread 9, Total load=58 Crawled=5, Crawling http://www.memphis.edu/ugcatalog/catalogarchive.php
+2015-11-17 23:11:51.850549	HTTP Error 404: Not Found: http://bf.memphis.edu/surveys/blueline/blsurvey.php
+2015-11-17 23:11:52.067562	Thread 10, Total load=100 Crawled=11, Crawling http://www.memphis.edu/rsp/compliance/index.php
+2015-11-17 23:11:53.837663	Thread 6, Total load=31 Crawled=7, Crawling http://www.memphis.edu/workforce/
+2015-11-17 23:11:57.213856	Thread 12, Total load=100 Crawled=4, Crawling http://www.memphis.edu/presweb/leadership/bov.php
+2015-11-17 23:12:00.418039	Thread 3, Total load=70 Crawled=9, Crawling http://www.memphis.edu/lambuth/aboutmain.php
+2015-11-17 23:12:02.089135	Thread 16 pushed to busy thread list
+2015-11-17 23:12:02.096135	Thread 16, Total load=100 Crawled=0, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2010003.pdf
+2015-11-17 23:12:03.750230	Thread 1, Total load=100 Crawled=10, Crawling http://www.memphis.edu/admissions/
+2015-11-17 23:12:05.603336	HTTP Error 404: Not Found: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:closePopUp()
+2015-11-17 23:12:05.632338	HTTP Error 404: Not Found: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:void(0)
+2015-11-17 23:12:05.640338	HTTP Error 404: Not Found: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:void(0);
+2015-11-17 23:12:05.646338	HTTP Error 400: Bad Request: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:openPopUp('divJobPlacementRateForAgency', true, 'Job Placement Rate Information')
+2015-11-17 23:12:05.652339	HTTP Error 400: Bad Request: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:openPopUp('divJobPlacementRateForState', true, 'Job Placement Rate Information')
+2015-11-17 23:12:05.658339	HTTP Error 400: Bad Request: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:openPopUp('divRelatedJobsToTheProgram', true, 'Jobs related to this program')
+2015-11-17 23:12:05.664340	HTTP Error 400: Bad Request: http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//javascript:openPopUp('divAdditionalInformation', true, 'Additional Information');
+2015-11-17 23:12:07.094421	Thread 11, Total load=100 Crawled=5, Crawling http://www.memphis.edu/padm/
+2015-11-17 23:12:07.796461	Thread 16, Total load=100 Crawled=1, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2010004.pdf
+2015-11-17 23:12:10.603622	Thread 15, Total load=100 Crawled=1, Crawling http://www.memphis.edu/law/current-students/numerical-course-list.php
+2015-11-17 23:12:10.673626	Thread 5, Total load=45 Crawled=8, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-15.0000.htm
+2015-11-17 23:12:13.201771	Thread 16, Total load=100 Crawled=2, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2010M50.pdf
+2015-11-17 23:12:14.790862	Thread 14, Total load=18 Crawled=2, Crawling http://www.memphis.edu/carsonscholars/
+2015-11-17 23:12:18.159054	Thread 8, Total load=22 Crawled=8, Crawling http://www.memphis.edu/lead/hiad/community_college.php
+2015-11-17 23:12:18.439070	Thread 16, Total load=100 Crawled=3, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2010M51.pdf
+2015-11-17 23:12:21.447242	Thread 4, Total load=18 Crawled=9, Crawling http://www.memphis.edu/accountancy/admissions/make_good_accountant.php
+2015-11-17 23:12:22.787319	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily: https://my.memphis.edu/cas/login
+2015-11-17 23:12:23.702371	Thread 16, Total load=100 Crawled=4, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2020001.pdf
+2015-11-17 23:12:24.094394	Thread 16 'charmap' codec can't encode character '\ufb01' in position 7996: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:12:24.678427	Thread 13, Total load=70 Crawled=3, Crawling http://www.memphis.edu/ugcatalog/general.php
+2015-11-17 23:12:26.220515	HTTP Error 404: Not Found: http://www.memphis.edu/ugcatalog/pdfs/csrr.pdf
+2015-11-17 23:12:28.047620	Thread 2, Total load=34 Crawled=10, Crawling http://www.memphis.edu/iei/
+2015-11-17 23:12:29.096680	Thread 16, Total load=100 Crawled=5, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2020002.pdf
+2015-11-17 23:12:31.561821	Thread 9, Total load=58 Crawled=6, Crawling http://www.memphis.edu/ugcatalog/collegeprog/indep_prog/
+2015-11-17 23:12:34.466987	Thread 16, Total load=100 Crawled=6, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2020003.pdf
+2015-11-17 23:12:35.164027	Thread 10, Total load=100 Crawled=12, Crawling http://www.memphis.edu/gradschool/current_students/ga.php
+2015-11-17 23:12:39.192257	Thread 6, Total load=31 Crawled=8, Crawling http://www.memphis.edu/emprelations/
+2015-11-17 23:12:40.015304	Thread 16, Total load=100 Crawled=7, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2020004.pdf
+2015-11-17 23:12:41.842409	Thread 17 pushed to busy thread list
+2015-11-17 23:12:41.846409	Thread 17, Total load=100 Crawled=0, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710003.pdf
+2015-11-17 23:12:42.361438	Thread 17 'charmap' codec can't encode character '\ufb01' in position 4821: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:12:43.504504	Thread 12, Total load=100 Crawled=5, Crawling http://www.memphis.edu/archive/centennial-uofm_centennial_news-university_of_memphis.pdf
+2015-11-17 23:12:44.682571	Thread 12 'charmap' codec can't encode character '\ufb01' in position 2814: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:12:45.439615	Thread 16, Total load=100 Crawled=8, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2020301.pdf
+2015-11-17 23:12:45.714630	Thread 16 'charmap' codec can't encode character '\ufb01' in position 8600: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:12:46.845695	Thread 3, Total load=70 Crawled=10, Crawling http://www.memphis.edu/lambuth/contactmain.php
+2015-11-17 23:12:47.364725	Thread 17, Total load=100 Crawled=1, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710004.pdf
+2015-11-17 23:12:49.685857	Thread 12, Total load=100 Crawled=6, Crawling http://www.memphis.edu/chucalissa/
+2015-11-17 23:12:50.459902	Thread 1, Total load=100 Crawled=11, Crawling http://www.memphis.edu/admissions/freshmen/apply_ugrd.php
+2015-11-17 23:12:50.716916	Thread 16, Total load=100 Crawled=9, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON2020M50.pdf
+2015-11-17 23:12:52.771034	Thread 17, Total load=100 Crawled=2, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710005.pdf
+2015-11-17 23:12:54.185115	Thread 11, Total load=100 Crawled=6, Crawling http://www.memphis.edu/philosophy/
+2015-11-17 23:12:55.980217	Thread 16, Total load=100 Crawled=10, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON3210001.pdf
+2015-11-17 23:12:57.686315	Thread 15, Total load=100 Crawled=2, Crawling http://www.memphis.edu/ugcatalog/graduation/
+2015-11-17 23:12:57.699316	Thread 5, Total load=45 Crawled=9, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-50.0901.htm
+2015-11-17 23:12:58.797379	Thread 17, Total load=100 Crawled=3, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710350.pdf
+2015-11-17 23:13:00.977503	Thread 14, Total load=18 Crawled=3, Crawling http://www.memphis.edu/studentlife/religious/
+2015-11-17 23:13:01.324523	Thread 16, Total load=100 Crawled=11, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON3310001.pdf
+2015-11-17 23:13:04.180686	Thread 17, Total load=100 Crawled=4, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710M50.pdf
+2015-11-17 23:13:04.574709	Thread 8, Total load=22 Crawled=9, Crawling http://www.memphis.edu/lead/hiad/internship_gradute_assistantships.php
+2015-11-17 23:13:06.736833	Thread 16, Total load=100 Crawled=12, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON4220001.pdf
+2015-11-17 23:13:09.983018	Thread 17, Total load=100 Crawled=5, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4810001.pdf
+2015-11-17 23:13:10.608054	Thread 4, Total load=18 Crawled=10, Crawling http://www.memphis.edu/accountancy/admissions/become_cpa.php
+2015-11-17 23:13:12.354154	Thread 16, Total load=100 Crawled=13, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON4561410.pdf
+2015-11-17 23:13:13.905243	Thread 13, Total load=70 Crawled=4, Crawling http://www.memphis.edu/ugcatalog/community.php
+2015-11-17 23:13:15.362326	Thread 17, Total load=100 Crawled=6, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4810002.pdf
+2015-11-17 23:13:17.364441	Thread 2, Total load=34 Crawled=11, Crawling http://www.memphis.edu/iso/
+2015-11-17 23:13:17.833467	Thread 16, Total load=100 Crawled=14, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON4740001.pdf
+2015-11-17 23:13:20.718632	Thread 17, Total load=100 Crawled=7, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4820001.pdf
+2015-11-17 23:13:21.060652	Thread 9, Total load=58 Crawled=7, Crawling http://www.memphis.edu/ugcatalog/graduation/gened.php
+2015-11-17 23:13:21.353669	Thread 17 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:13:23.297780	Thread 18 pushed to busy thread list
+2015-11-17 23:13:23.302780	Thread 18, Total load=100 Crawled=0, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS2610001.pdf
+2015-11-17 23:13:23.639799	Thread 16, Total load=100 Crawled=15, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON4810001.pdf
+2015-11-17 23:13:25.070881	Thread 10, Total load=100 Crawled=13, Crawling http://www.memphis.edu/drs/
+2015-11-17 23:13:26.355955	Thread 17, Total load=100 Crawled=8, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7135001.pdf
+2015-11-17 23:13:28.302066	Thread 6, Total load=31 Crawled=9, Crawling http://www.memphis.edu/emprelations/appraisals.php
+2015-11-17 23:13:28.725090	Thread 18, Total load=100 Crawled=1, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS2710001.pdf
+2015-11-17 23:13:29.006106	Thread 16, Total load=100 Crawled=16, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON6810001.pdf
+2015-11-17 23:13:31.685260	Thread 3, Total load=70 Crawled=11, Crawling http://www.memphis.edu/lambuth/newsmain.php
+2015-11-17 23:13:32.428302	Thread 17, Total load=100 Crawled=9, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7135002.pdf
+2015-11-17 23:13:34.134400	Thread 18, Total load=100 Crawled=2, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS2710002.pdf
+2015-11-17 23:13:34.438417	Thread 16, Total load=100 Crawled=17, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON7100002.pdf
+2015-11-17 23:13:35.746492	Thread 12, Total load=100 Crawled=7, Crawling http://www.memphis.edu/innovation/collierville/
+2015-11-17 23:13:38.231634	Thread 17, Total load=100 Crawled=10, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7135003.pdf
+2015-11-17 23:13:39.648715	Thread 18, Total load=100 Crawled=3, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS2710301.pdf
+2015-11-17 23:13:40.004735	Thread 16, Total load=100 Crawled=18, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON7100003.pdf
+2015-11-17 23:13:40.307753	Thread 1, Total load=100 Crawled=12, Crawling http://www.memphis.edu/graduateadmissions/future/apply_grad.php
+2015-11-17 23:13:44.029966	Thread 17, Total load=100 Crawled=11, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7135M50.pdf
+2015-11-17 23:13:44.214976	Thread 11, Total load=100 Crawled=7, Crawling http://www.memphis.edu/physics/index.php
+2015-11-17 23:13:44.229977	Thread 5, Total load=45 Crawled=10, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-13.1013.htm
+2015-11-17 23:13:45.073025	Thread 18, Total load=100 Crawled=4, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS2710M50.pdf
+2015-11-17 23:13:45.658059	Thread 16, Total load=100 Crawled=19, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON7125001.pdf
+2015-11-17 23:13:47.379157	Thread 15, Total load=100 Crawled=3, Crawling http://www.memphis.edu/ugcatalog/expenses/
+2015-11-17 23:13:49.569283	Thread 17, Total load=100 Crawled=12, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7136001.pdf
+2015-11-17 23:13:50.470334	Thread 18, Total load=100 Crawled=5, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510001.pdf
+2015-11-17 23:13:50.872357	Thread 16, Total load=100 Crawled=20, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON7175001.pdf
+2015-11-17 23:13:51.257379	Thread 14, Total load=18 Crawled=4, Crawling http://www.memphis.edu/studentlife/voterinformation-otherstates.php
+2015-11-17 23:13:54.452562	Thread 8, Total load=22 Crawled=10, Crawling http://www.memphis.edu/lead/pdfs/etms.pdf
+2015-11-17 23:13:55.322612	Thread 17, Total load=100 Crawled=13, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7160001.pdf
+2015-11-17 23:13:55.743636	Thread 18, Total load=100 Crawled=6, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510002.pdf
+2015-11-17 23:13:56.582684	Thread 16, Total load=100 Crawled=21, Crawling http://fcbeacad.memphis.edu/syllabus/econ/2015FECON7300001.pdf
+2015-11-17 23:13:58.014766	Thread 4, Total load=18 Crawled=11, Crawling http://www.memphis.edu/accountancy/contact/
+2015-11-17 23:13:59.721863	Thread 8, Total load=22 Crawled=11, Crawling http://www.memphis.edu/lambuth/classes/classessummer.php
+2015-11-17 23:14:01.700976	Thread 18, Total load=100 Crawled=7, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510003.pdf
+2015-11-17 23:14:01.731978	Thread 17, Total load=100 Crawled=14, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7160002.pdf
+2015-11-17 23:14:02.013994	Thread 16, Total load=100 Crawled=22, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON7710001.pdf
+2015-11-17 23:14:02.393016	Thread 13, Total load=70 Crawled=5, Crawling http://www.memphis.edu/ugcatalog/academic_accreditation.php
+2015-11-17 23:14:05.163174	Thread 19 pushed to busy thread list
+2015-11-17 23:14:05.168175	Thread 19, Total load=100 Crawled=0, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2015_2016.pdf
+2015-11-17 23:14:06.160231	Thread 2, Total load=34 Crawled=12, Crawling http://www.memphis.edu/graduateadmissions/
+2015-11-17 23:14:07.139287	Thread 18, Total load=100 Crawled=8, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510301.pdf
+2015-11-17 23:14:08.497365	Thread 16, Total load=100 Crawled=23, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON7715001.pdf
+2015-11-17 23:14:08.890388	Thread 17, Total load=100 Crawled=15, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7160410.pdf
+2015-11-17 23:14:10.171060	Thread 9, Total load=58 Crawled=8, Crawling http://www.memphis.edu/ugcatalog/campus_directory.php
+2015-11-17 23:14:13.164231	Thread 18, Total load=100 Crawled=9, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510501.pdf
+2015-11-17 23:14:14.591313	Thread 18 'charmap' codec can't encode character '\u02d8' in position 0: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:14.641316	Thread 16, Total load=100 Crawled=24, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON8125001.pdf
+2015-11-17 23:14:16.146402	Thread 17, Total load=100 Crawled=16, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7160M50.pdf
+2015-11-17 23:14:17.478478	Thread 10, Total load=100 Crawled=14, Crawling http://www.memphis.edu/lead/pdfs/annual-review-of-student-program-achievement.pdf
+2015-11-17 23:14:19.619600	Thread 18, Total load=100 Crawled=10, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510502.pdf
+2015-11-17 23:14:20.096628	Thread 16, Total load=100 Crawled=25, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON8175001.pdf
+2015-11-17 23:14:20.129630	Thread 18 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:14:20.188633	[Errno 13] Permission denied: 'temp/2015FECON8175001.pdf' Exception; Exception occured in webpagereader.readpdftext.
+2015-11-17 23:14:20.199634	Exception in urlcontentreader: https://fcbeacad.memphis.edu/syllabus/econ/2015FECON8175001.pdf [WinError 5] Access is denied: 'temp/2015FECON8175001.pdf'
+2015-11-17 23:14:20.215635	Thread 16 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:14:23.093799	Thread 10, Total load=100 Crawled=15, Crawling http://www.memphis.edu/lead/pdfs/review-retention-dismissal-policy.pdf
+2015-11-17 23:14:23.098799	Thread 17, Total load=100 Crawled=17, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7250001.pdf
+2015-11-17 23:14:25.147917	Thread 18, Total load=100 Crawled=11, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510503.pdf
+2015-11-17 23:14:25.235922	Thread 16, Total load=100 Crawled=26, Crawling http://fcbeacad.memphis.edu/syllabus/econ/2015FECON8311001.pdf
+2015-11-17 23:14:25.679947	Thread 18 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:14:26.686005	Thread 6, Total load=31 Crawled=10, Crawling http://www.memphis.edu/benefits/
+2015-11-17 23:14:28.333099	Thread 10, Total load=100 Crawled=16, Crawling http://www.memphis.edu/lead/pdfs/staying-continuously-enrolled.pdf
+2015-11-17 23:14:29.334156	Thread 17, Total load=100 Crawled=18, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT7270001.pdf
+2015-11-17 23:14:30.105200	Thread 19 'charmap' codec can't encode characters in position 1700-1702: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:30.711235	Thread 18, Total load=100 Crawled=12, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510M50.pdf
+2015-11-17 23:14:31.140259	Thread 16, Total load=100 Crawled=27, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON8321001.pdf
+2015-11-17 23:14:31.251266	[Errno 13] Permission denied: 'temp/2015FECON8321001.pdf' Exception; Exception occured in webpagereader.readpdftext.
+2015-11-17 23:14:31.267267	Exception in urlcontentreader: https://fcbeacad.memphis.edu/syllabus/econ/2015FECON8321001.pdf [WinError 5] Access is denied: 'temp/2015FECON8321001.pdf'
+2015-11-17 23:14:31.283268	Thread 16 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:14:33.206378	Thread 3, Total load=70 Crawled=12, Crawling http://www.memphis.edu/lambuth/Programs/
+2015-11-17 23:14:33.606400	Thread 10, Total load=100 Crawled=17, Crawling http://www.memphis.edu/lead/pdfs/video-communication-requirement.pdf
+2015-11-17 23:14:35.116487	Thread 19, Total load=100 Crawled=1, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2014_2015.pdf
+2015-11-17 23:14:35.950535	Thread 17, Total load=100 Crawled=19, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749001.pdf
+2015-11-17 23:14:36.307555	Thread 16, Total load=100 Crawled=28, Crawling https://fcbeacad.memphis.edu/syllabus/econ/2015FECON8811001.pdf
+2015-11-17 23:14:36.499566	Thread 18, Total load=100 Crawled=13, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3510M51.pdf
+2015-11-17 23:14:37.776639	Thread 12, Total load=100 Crawled=8, Crawling http://www.memphis.edu/innovation/millington/
+2015-11-17 23:14:38.683691	Thread 10, Total load=100 Crawled=18, Crawling http://www.memphis.edu/lead/pdfs/institutional-review-board.pdf
+2015-11-17 23:14:41.631859	Thread 1, Total load=100 Crawled=13, Crawling http://www.memphis.edu/law/admissions/
+2015-11-17 23:14:41.700863	Thread 5, Total load=45 Crawled=11, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-11.1099.htm
+2015-11-17 23:14:41.914876	Thread 17, Total load=100 Crawled=20, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749002.pdf
+2015-11-17 23:14:42.306898	Thread 16, Total load=100 Crawled=29, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR1220001.pdf
+2015-11-17 23:14:42.474908	Thread 18, Total load=100 Crawled=14, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3620001.pdf
+2015-11-17 23:14:43.185948	Thread 18 'charmap' codec can't encode character '\ufb02' in position 466: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:43.219950	Thread 16 'charmap' codec can't encode character '\ufb01' in position 1864: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:43.846986	Thread 10, Total load=100 Crawled=19, Crawling http://www.memphis.edu/lead/pdfs/doctoral-comprehensive-exams-policy.pdf
+2015-11-17 23:14:47.764210	Thread 17, Total load=100 Crawled=21, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749003.pdf
+2015-11-17 23:14:48.221236	Thread 18, Total load=100 Crawled=15, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3650001.pdf
+2015-11-17 23:14:48.226237	Thread 16, Total load=100 Crawled=30, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3310001.pdf
+2015-11-17 23:14:48.286240	Thread 11, Total load=100 Crawled=8, Crawling http://www.memphis.edu/polisci/
+2015-11-17 23:14:48.965279	Thread 10, Total load=100 Crawled=20, Crawling http://www.memphis.edu/lead/pdfs/adult-education-comprehensive-exam-question.pdf
+2015-11-17 23:14:49.054284	Thread 17 'charmap' codec can't encode character '\ufb01' in position 9325: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:54.085171	Thread 17, Total load=100 Crawled=22, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749004.pdf
+2015-11-17 23:14:54.124173	Thread 16, Total load=100 Crawled=31, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3410001.pdf
+2015-11-17 23:14:54.258181	Thread 10, Total load=100 Crawled=21, Crawling http://www.memphis.edu/lead/pdfs/higher-education-comprehensive-exam-question.pdf
+2015-11-17 23:14:54.508195	Thread 18, Total load=100 Crawled=16, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3711001.pdf
+2015-11-17 23:14:56.536311	Thread 17 'charmap' codec can't encode character '\ufb01' in position 9325: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:57.176348	Thread 16 'charmap' codec can't encode character '\ufb01' in position 5650: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:14:59.672490	Thread 10, Total load=100 Crawled=22, Crawling http://www.memphis.edu/lead/pdfs/research-design-comprehensive-exam-question.pdf
+2015-11-17 23:15:01.517596	Thread 18, Total load=100 Crawled=17, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3711002.pdf
+2015-11-17 23:15:01.597601	Thread 17, Total load=100 Crawled=23, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749005.pdf
+2015-11-17 23:15:02.202635	Thread 16, Total load=100 Crawled=32, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3410002.pdf
+2015-11-17 23:15:05.205807	Thread 10, Total load=100 Crawled=23, Crawling http://www.memphis.edu/lead/pdfs/hiad-evaluation-criteria.pdf
+2015-11-17 23:15:07.595944	Thread 18, Total load=100 Crawled=18, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3711003.pdf
+2015-11-17 23:15:08.063970	Thread 16, Total load=100 Crawled=33, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3410003.pdf
+2015-11-17 23:15:08.355987	Thread 17, Total load=100 Crawled=24, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749006.pdf
+2015-11-17 23:15:08.801013	Thread 18 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:09.228037	Thread 16 'charmap' codec can't encode character '\ufb01' in position 5683: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:10.865131	Thread 10, Total load=100 Crawled=24, Crawling http://www.memphis.edu/lead/pdfs/comprehensive-exam-evaluation-form.pdf
+2015-11-17 23:15:13.827300	Thread 18, Total load=100 Crawled=19, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS3711M50.pdf
+2015-11-17 23:15:14.242324	Thread 16, Total load=100 Crawled=34, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3410004.pdf
+2015-11-17 23:15:14.586344	Thread 18 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:14.991367	Thread 16 'charmap' codec can't encode character '\ufb01' in position 4294: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:15.473394	Thread 17, Total load=100 Crawled=25, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749007.pdf
+2015-11-17 23:15:15.511396	[Errno 13] Permission denied: 'temp/2015FMIS2749007.pdf' Exception; Exception occured in webpagereader.readpdftext.
+2015-11-17 23:15:15.520397	Exception in urlcontentreader: https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749007.pdf [WinError 5] Access is denied: 'temp/2015FMIS2749007.pdf'
+2015-11-17 23:15:15.528397	Thread 17 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:15:16.359445	Thread 10, Total load=100 Crawled=25, Crawling https://sso.memphis.edu/idp/profile/Shibboleth/Redirect/SSO;jsessionid=1416gmz13qbi6vav1wixipn7l
+2015-11-17 23:15:16.414448	Exception in urlcontentreader: https://sso.memphis.edu/idp/profile/Shibboleth/Redirect/SSO;jsessionid=1416gmz13qbi6vav1wixipn7l HTTP Error 400: Bad Request
+2015-11-17 23:15:16.418448	Thread 10 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:15:16.872474	Thread 15, Total load=100 Crawled=4, Crawling http://www.memphis.edu/alumni/news/
+2015-11-17 23:15:19.614631	Thread 18, Total load=100 Crawled=20, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS4510001.pdf
+2015-11-17 23:15:20.006654	Thread 16, Total load=100 Crawled=35, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3410M50.pdf
+2015-11-17 23:15:20.542684	Thread 17, Total load=100 Crawled=26, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749008.pdf
+2015-11-17 23:15:21.014711	Thread 14, Total load=18 Crawled=5, Crawling http://www.memphis.edu/studentlife/pdfs/student_handbook.pdf
+2015-11-17 23:15:21.423735	Thread 10, Total load=100 Crawled=26, Crawling http://www.memphis.edu/lead/pdfs/cut-paste-d2l.pdf
+2015-11-17 23:15:22.241781	Thread 17 'charmap' codec can't encode character '\ufb01' in position 122: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:22.449793	Thread 16 'charmap' codec can't encode characters in position 0-3: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:24.910934	Thread 4, Total load=18 Crawled=12, Crawling http://www.memphis.edu/accountancy/admissions/hot_links.php
+2015-11-17 23:15:25.664977	Thread 18, Total load=100 Crawled=21, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7110001.pdf
+2015-11-17 23:15:26.473023	Thread 18 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:26.902048	Thread 10, Total load=100 Crawled=27, Crawling http://www.memphis.edu/lead/pdfs/facultyexpectations.pdf
+2015-11-17 23:15:27.279070	Thread 17, Total load=100 Crawled=27, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749009.pdf
+2015-11-17 23:15:27.458080	Thread 16, Total load=100 Crawled=36, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3710001.pdf
+2015-11-17 23:15:27.976109	Thread 17 'charmap' codec can't encode character '\ufb01' in position 122: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:28.379132	Thread 16 'charmap' codec can't encode character '\u02d8' in position 0: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:29.420192	Thread 20 pushed to busy thread list
+2015-11-17 23:15:29.432193	Thread 20, Total load=100 Crawled=0, Crawling http://www.memphis.edu/lambuth/contactdirectory.php
+2015-11-17 23:15:29.580201	Thread 8, Total load=22 Crawled=12, Crawling http://www.memphis.edu/lambuth/classes/classesfall.php
+2015-11-17 23:15:31.479310	Thread 18, Total load=100 Crawled=22, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7110002.pdf
+2015-11-17 23:15:32.013340	Thread 10, Total load=100 Crawled=28, Crawling http://www.memphis.edu/lead/pdfs/writing_support.pdf
+2015-11-17 23:15:32.991396	Thread 17, Total load=100 Crawled=28, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749010.pdf
+2015-11-17 23:15:33.389419	Thread 16, Total load=100 Crawled=37, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3720001.pdf
+2015-11-17 23:15:34.435479	Thread 13, Total load=70 Crawled=6, Crawling http://www.memphis.edu/ugcatalog/facilities.php
+2015-11-17 23:15:35.797557	Thread 18 'charmap' codec can't encode character '\ufb01' in position 11124: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:37.557657	Thread 10, Total load=100 Crawled=29, Crawling http://www.memphis.edu/lead/pdfs/ergonomics_handout.pdf
+2015-11-17 23:15:40.570830	Thread 16, Total load=100 Crawled=38, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR3720M50.pdf
+2015-11-17 23:15:40.853846	Thread 18, Total load=100 Crawled=23, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7110410.pdf
+2015-11-17 23:15:41.870904	Thread 17, Total load=100 Crawled=29, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749350.pdf
+2015-11-17 23:15:43.236982	Thread 18 'charmap' codec can't encode characters in position 0-2: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:43.703009	Thread 10, Total load=100 Crawled=30, Crawling http://www.memphis.edu/lead/pdfs/successful_online_students.pdf
+2015-11-17 23:15:47.247212	Thread 16, Total load=100 Crawled=39, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4331001.pdf
+2015-11-17 23:15:48.276270	Thread 18, Total load=100 Crawled=24, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7110M50.pdf
+2015-11-17 23:15:48.326273	Thread 2, Total load=34 Crawled=13, Crawling http://www.memphis.edu/bursar/
+2015-11-17 23:15:49.553344	Thread 16 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:49.946366	Thread 10 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:50.344389	Thread 17, Total load=100 Crawled=30, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749502.pdf
+2015-11-17 23:15:50.897420	Thread 18 'charmap' codec can't encode characters in position 0-2: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:54.593632	Thread 16, Total load=100 Crawled=40, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4350M50.pdf
+2015-11-17 23:15:54.711639	Thread 17 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:15:54.967653	Thread 10, Total load=100 Crawled=31, Crawling http://www.memphis.edu/lead/pdfs/residencydesc.pdf
+2015-11-17 23:15:55.938709	Thread 18, Total load=100 Crawled=25, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7313001.pdf
+2015-11-17 23:15:57.432794	Thread 16 'charmap' codec can't encode character '\u02c7' in position 0: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:15:59.737926	Thread 17, Total load=100 Crawled=31, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749C23.pdf
+2015-11-17 23:16:00.456967	Thread 10, Total load=100 Crawled=32, Crawling http://www.memphis.edu/gradschool/current_students/tdguide_preparation.php
+2015-11-17 23:16:00.456967	Thread 9, Total load=58 Crawled=9, Crawling http://www.memphis.edu/ugcatalog/services/
+2015-11-17 23:16:02.459082	Thread 16, Total load=100 Crawled=41, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4440001.pdf
+2015-11-17 23:16:03.566145	Thread 14 'charmap' codec can't encode character '\ufb01' in position 42939: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:04.368191	Thread 18, Total load=100 Crawled=26, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7313002.pdf
+2015-11-17 23:16:07.702382	Thread 17, Total load=100 Crawled=32, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749C34.pdf
+2015-11-17 23:16:08.578432	Thread 14, Total load=18 Crawled=6, Crawling http://www.memphis.edu/studentlife/snm.php
+2015-11-17 23:16:08.604433	Thread 16, Total load=100 Crawled=42, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4440M50.pdf
+2015-11-17 23:16:09.854505	Thread 16 'charmap' codec can't encode character '\u2044' in position 7953: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:10.287529	Thread 6, Total load=31 Crawled=11, Crawling http://www.memphis.edu/oed/
+2015-11-17 23:16:10.877563	Thread 18, Total load=100 Crawled=27, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS7313003.pdf
+2015-11-17 23:16:14.593776	Thread 17, Total load=100 Crawled=33, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2749M50.pdf
+2015-11-17 23:16:14.883792	Thread 16, Total load=100 Crawled=43, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4550001.pdf
+2015-11-17 23:16:15.677838	Thread 16 'charmap' codec can't encode character '\ufb01' in position 609: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:17.592947	Thread 18, Total load=100 Crawled=28, Crawling https://fcbeacad.memphis.edu/syllabus/other/2015FSCMS8530001.pdf
+2015-11-17 23:16:17.671952	Thread 3, Total load=70 Crawled=13, Crawling http://www.memphis.edu/gradschool/future_students/
+2015-11-17 23:16:20.037087	Thread 18 'charmap' codec can't encode character '\ufb01' in position 588: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:20.725126	Thread 16, Total load=100 Crawled=44, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4550M50.pdf
+2015-11-17 23:16:21.365163	Thread 16 'charmap' codec can't encode character '\ufb01' in position 613: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:21.454168	Thread 17, Total load=100 Crawled=34, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2845001.pdf
+2015-11-17 23:16:24.634350	Thread 12, Total load=100 Crawled=9, Crawling http://www.memphis.edu/presweb/leadership/
+2015-11-17 23:16:25.053374	Thread 18, Total load=100 Crawled=29, Crawling http://www.memphis.edu/lead/docs/posadultedu.doc
+2015-11-17 23:16:25.160380	Thread 18 'charmap' codec can't encode character '\u0871' in position 1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:26.377450	Thread 16, Total load=100 Crawled=45, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4610001.pdf
+2015-11-17 23:16:27.566518	Thread 17, Total load=100 Crawled=35, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS2845M50.pdf
+2015-11-17 23:16:28.313560	Thread 17 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:30.173667	Thread 18, Total load=100 Crawled=30, Crawling http://www.memphis.edu/lead/pdfs/adult_ed_program_information.pdf
+2015-11-17 23:16:32.010772	Thread 16, Total load=100 Crawled=46, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4710001.pdf
+2015-11-17 23:16:32.204783	Thread 1, Total load=100 Crawled=14, Crawling http://www.memphis.edu/admissions/international/apply_intl.php
+2015-11-17 23:16:32.234785	Thread 5, Total load=45 Crawled=12, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-52.1301.htm
+2015-11-17 23:16:32.244785	Thread 16 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:16:33.334848	Thread 17, Total load=100 Crawled=36, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210001.pdf
+2015-11-17 23:16:35.852992	Thread 18, Total load=100 Crawled=31, Crawling http://www.memphis.edu/uofmonline/Orientation/courseregistration.php
+2015-11-17 23:16:37.290074	Thread 16, Total load=100 Crawled=47, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR4730001.pdf
+2015-11-17 23:16:38.477142	Thread 16 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:38.542146	Thread 11, Total load=100 Crawled=9, Crawling http://www.memphis.edu/cas/pre_health/
+2015-11-17 23:16:42.121350	Thread 17, Total load=100 Crawled=37, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210002.pdf
+2015-11-17 23:16:43.505429	Thread 16, Total load=100 Crawled=48, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR6331001.pdf
+2015-11-17 23:16:45.150523	Thread 16 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:46.339592	Thread 15, Total load=100 Crawled=5, Crawling http://www.memphis.edu/alumni/supportuofm/
+2015-11-17 23:16:48.061690	Thread 21 pushed to busy thread list
+2015-11-17 23:16:48.091692	Thread 21, Total load=61 Crawled=0, Crawling http://www.memphis.edu/law/index.php
+2015-11-17 23:16:48.779731	Thread 17, Total load=100 Crawled=38, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210003.pdf
+2015-11-17 23:16:50.172811	Thread 16, Total load=100 Crawled=49, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR6350M50.pdf
+2015-11-17 23:16:50.555833	Thread 17 'charmap' codec can't encode character '\ufb01' in position 7844: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:52.111922	Thread 16 'charmap' codec can't encode character '\u02c7' in position 0: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:16:53.083977	Thread 4, Total load=18 Crawled=13, Crawling http://www.memphis.edu/accountancy/admissions/networking.php
+2015-11-17 23:16:55.570119	Thread 17, Total load=100 Crawled=39, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210004.pdf
+2015-11-17 23:16:57.127209	Thread 16, Total load=100 Crawled=50, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR6610001.pdf
+2015-11-17 23:17:00.093378	Thread 20, Total load=100 Crawled=1, Crawling http://www.memphis.edu/lambuth/contactemployment.php
+2015-11-17 23:17:01.027432	Thread 17, Total load=100 Crawled=40, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210005.pdf
+2015-11-17 23:17:03.012545	Thread 16, Total load=100 Crawled=51, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7155001.pdf
+2015-11-17 23:17:03.457571	Thread 16 'charmap' codec can't encode character '\ufb01' in position 2730: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:06.590750	Thread 8, Total load=22 Crawled=13, Crawling http://www.memphis.edu/lambuth/classes/classesspring.php
+2015-11-17 23:17:06.715757	Thread 17, Total load=100 Crawled=41, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210006.pdf
+2015-11-17 23:17:08.484858	Thread 16, Total load=100 Crawled=52, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7155M50.pdf
+2015-11-17 23:17:09.499916	Thread 16 'charmap' codec can't encode character '\ufb01' in position 9205: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:12.831107	Thread 17, Total load=100 Crawled=42, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3210M50.pdf
+2015-11-17 23:17:13.974172	Thread 13, Total load=70 Crawled=7, Crawling http://www.memphis.edu/ugcatalog/graduate.php
+2015-11-17 23:17:14.509203	Thread 16, Total load=100 Crawled=53, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7173001.pdf
+2015-11-17 23:17:15.647268	Thread 16 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:19.401483	Thread 17, Total load=100 Crawled=43, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3770001.pdf
+2015-11-17 23:17:20.665555	Thread 16, Total load=100 Crawled=54, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7302001.pdf
+2015-11-17 23:17:21.138582	Thread 2, Total load=34 Crawled=14, Crawling http://www.memphis.edu/admissions/faq.php
+2015-11-17 23:17:25.921855	Thread 17, Total load=100 Crawled=44, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3775001.pdf
+2015-11-17 23:17:26.194871	Thread 16, Total load=100 Crawled=55, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7410001.pdf
+2015-11-17 23:17:27.293934	Thread 16 'charmap' codec can't encode characters in position 0-2: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:27.961972	Thread 9, Total load=58 Crawled=10, Crawling http://www.memphis.edu/ugcatalog/calendar.php
+2015-11-17 23:17:31.786191	Thread 17, Total load=100 Crawled=45, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3790001.pdf
+2015-11-17 23:17:32.308221	Thread 16, Total load=100 Crawled=56, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7725001.pdf
+2015-11-17 23:17:34.046320	Thread 16 'charmap' codec can't encode character '\ufb01' in position 12431: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:35.514404	Thread 10, Total load=100 Crawled=33, Crawling http://www.memphis.edu/lead/pdfs/tips_on_completing_the_doctorate.pdf
+2015-11-17 23:17:38.757590	Thread 17, Total load=100 Crawled=46, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS3885001.pdf
+2015-11-17 23:17:39.066607	Thread 16, Total load=100 Crawled=57, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR7911001.pdf
+2015-11-17 23:17:39.462630	Thread 17 'charmap' codec can't encode character '\ufb01' in position 990: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:40.787706	Thread 10, Total load=100 Crawled=34, Crawling http://www.memphis.edu/lead/pdfs/ummeet-student-guide.pdf
+2015-11-17 23:17:42.497804	Thread 14, Total load=18 Crawled=7, Crawling http://www.memphis.edu/lambuth/studentservices/studentservicestigerlink.php
+2015-11-17 23:17:44.487917	Thread 17, Total load=100 Crawled=47, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS4310M50.pdf
+2015-11-17 23:17:44.849938	Thread 16, Total load=100 Crawled=58, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR8410001.pdf
+2015-11-17 23:17:46.228017	Thread 16 'charmap' codec can't encode characters in position 0-2: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:46.321022	Thread 10, Total load=100 Crawled=35, Crawling http://www.memphis.edu/lead/images/ummeet-intro.mp4
+2015-11-17 23:17:49.937229	Thread 6, Total load=31 Crawled=12, Crawling http://www.memphis.edu/records/
+2015-11-17 23:17:50.752276	Thread 10 'charmap' codec can't encode character '\u017a' in position 595: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:50.823280	Thread 17, Total load=100 Crawled=48, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS4760M50.pdf
+2015-11-17 23:17:51.238303	Thread 16, Total load=100 Crawled=59, Crawling https://fcbeacad.memphis.edu/syllabus/fir/2015FFIR8725001.pdf
+2015-11-17 23:17:52.640384	Thread 16 'charmap' codec can't encode character '\ufb01' in position 12431: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:17:55.772563	Thread 10, Total load=100 Crawled=36, Crawling http://www.memphis.edu/lead/pdfs/weebly-guide.pdf
+2015-11-17 23:17:56.888627	Thread 17, Total load=100 Crawled=49, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS4800001.pdf
+2015-11-17 23:17:57.653670	Thread 16, Total load=100 Crawled=60, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT1010001.pdf
+2015-11-17 23:18:00.386827	Thread 3, Total load=70 Crawled=14, Crawling http://www.memphis.edu/gradschool/current_students/
+2015-11-17 23:18:01.926915	Thread 10, Total load=100 Crawled=37, Crawling http://www.memphis.edu/web-directory/list.php
+2015-11-17 23:18:02.701959	Thread 17, Total load=100 Crawled=50, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7160001.pdf
+2015-11-17 23:18:03.062980	Thread 16, Total load=100 Crawled=61, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT2820001.pdf
+2015-11-17 23:18:07.713246	Thread 12, Total load=100 Crawled=10, Crawling http://www.memphis.edu/presweb/leadership/staff.php
+2015-11-17 23:18:07.788250	Thread 5, Total load=45 Crawled=13, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-11.1005.htm
+2015-11-17 23:18:08.928315	Thread 17, Total load=100 Crawled=51, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7190001.pdf
+2015-11-17 23:18:09.681358	Thread 16, Total load=100 Crawled=62, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT2820M50.pdf
+2015-11-17 23:18:15.345682	Thread 17, Total load=100 Crawled=52, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7605001.pdf
+2015-11-17 23:18:15.396685	Thread 1, Total load=100 Crawled=15, Crawling http://www.memphis.edu/athletics/
+2015-11-17 23:18:17.194788	Thread 16, Total load=100 Crawled=63, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110001.pdf
+2015-11-17 23:18:21.797051	Thread 17, Total load=100 Crawled=53, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7610M50.pdf
+2015-11-17 23:18:22.080068	Thread 18, Total load=100 Crawled=32, Crawling http://www.memphis.edu/law/programs/advocacy-certificate.php
+2015-11-17 23:18:22.634099	Thread 16, Total load=100 Crawled=64, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110002.pdf
+2015-11-17 23:18:22.981119	Thread 17 'charmap' codec can't encode character '\ufb01' in position 2364: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:18:28.004406	Thread 17, Total load=100 Crawled=54, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7615001.pdf
+2015-11-17 23:18:29.334482	Thread 16, Total load=100 Crawled=65, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110003.pdf
+2015-11-17 23:18:29.939517	Thread 17 'charmap' codec can't encode character '\ufb01' in position 4630: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:18:30.277536	Thread 11, Total load=100 Crawled=10, Crawling http://www.memphis.edu/cas/pre_law/
+2015-11-17 23:18:32.249649	Thread 22 pushed to busy thread list
+2015-11-17 23:18:32.271650	Thread 22, Total load=81 Crawled=0, Crawling http://www.memphis.edu/umtech/
+2015-11-17 23:18:33.261707	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/lambuth
+2015-11-17 23:18:34.963804	Thread 17, Total load=100 Crawled=55, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7620001.pdf
+2015-11-17 23:18:35.572839	Thread 16, Total load=100 Crawled=66, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110004.pdf
+2015-11-17 23:18:37.284937	Thread 15, Total load=100 Crawled=6, Crawling http://www.memphis.edu/alumni/about/
+2015-11-17 23:18:40.702133	Thread 17, Total load=100 Crawled=56, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7640001.pdf
+2015-11-17 23:18:42.963262	Thread 16, Total load=100 Crawled=67, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110301.pdf
+2015-11-17 23:18:47.410516	Thread 17, Total load=100 Crawled=57, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7650001.pdf
+2015-11-17 23:18:49.438632	Thread 16, Total load=100 Crawled=68, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110503.pdf
+2015-11-17 23:18:50.123870	Thread 21, Total load=61 Crawled=1, Crawling http://www.memphis.edu/gradschool/future_students/federal_aid.php
+2015-11-17 23:18:54.862141	Thread 17, Total load=100 Crawled=58, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7650002.pdf
+2015-11-17 23:18:55.773193	Thread 17 'charmap' codec can't encode character '\ufb01' in position 5617: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:18:56.487234	Thread 16, Total load=100 Crawled=69, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110M50.pdf
+2015-11-17 23:18:58.229333	Thread 4, Total load=18 Crawled=14, Crawling http://www.memphis.edu/accountancy/admissions/financial_assistance.php
+2015-11-17 23:19:00.804481	Thread 17, Total load=100 Crawled=59, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7650003.pdf
+2015-11-17 23:19:03.235620	Thread 16, Total load=100 Crawled=70, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3110M51.pdf
+2015-11-17 23:19:05.985777	Thread 20, Total load=100 Crawled=2, Crawling http://www.memphis.edu/chucalissa/about/
+2015-11-17 23:19:08.115899	Thread 17, Total load=100 Crawled=60, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7670001.pdf
+2015-11-17 23:19:09.542981	Thread 16, Total load=100 Crawled=71, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3215001.pdf
+2015-11-17 23:19:13.635215	Thread 8, Total load=22 Crawled=14, Crawling http://www.memphis.edu/nso/
+2015-11-17 23:19:13.936232	Thread 17, Total load=100 Crawled=61, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7671001.pdf
+2015-11-17 23:19:16.868400	Thread 16, Total load=100 Crawled=72, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3215002.pdf
+2015-11-17 23:19:20.837627	Thread 17, Total load=100 Crawled=62, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS7681001.pdf
+2015-11-17 23:19:21.355656	Thread 13, Total load=70 Crawled=8, Crawling http://www.memphis.edu/ugcatalog/law.php
+2015-11-17 23:19:24.220820	Thread 16, Total load=100 Crawled=73, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3215504.pdf
+2015-11-17 23:19:26.788967	Thread 17, Total load=100 Crawled=63, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS8605001.pdf
+2015-11-17 23:19:28.890087	Thread 2, Total load=34 Crawled=15, Crawling http://www.memphis.edu/about/
+2015-11-17 23:19:31.201219	Thread 16, Total load=100 Crawled=74, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3215M50.pdf
+2015-11-17 23:19:33.300339	Thread 17, Total load=100 Crawled=64, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS8615001.pdf
+2015-11-17 23:19:35.470464	Thread 17 'charmap' codec can't encode character '\ufb01' in position 4630: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:19:36.121501	Thread 9, Total load=58 Crawled=11, Crawling http://www.memphis.edu/ugcatalog/acad_reg/
+2015-11-17 23:19:37.880601	Thread 16, Total load=100 Crawled=75, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510001.pdf
+2015-11-17 23:19:40.494751	Thread 17, Total load=100 Crawled=65, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS8620001.pdf
+2015-11-17 23:19:43.913946	Thread 14, Total load=18 Crawled=8, Crawling http://www.memphis.edu/lambuth/studentservices/studentservicestesting.php
+2015-11-17 23:19:44.369973	Thread 16, Total load=100 Crawled=76, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510002.pdf
+2015-11-17 23:19:46.304083	Thread 17, Total load=100 Crawled=66, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS8640001.pdf
+2015-11-17 23:19:50.193306	Thread 16, Total load=100 Crawled=77, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510003.pdf
+2015-11-17 23:19:51.473379	Thread 6, Total load=31 Crawled=13, Crawling http://www.memphis.edu/vpai/
+2015-11-17 23:19:52.945463	Thread 17, Total load=100 Crawled=67, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS8670001.pdf
+2015-11-17 23:19:53.483494	HTTP Error 404: Not Found: http://www.memphis.edu/registrar/student/email.htm
+2015-11-17 23:19:54.121530	HTTP Error 404: Not Found: http://www.memphis.edu/mediaroom/networking.php
+2015-11-17 23:19:56.536668	Thread 16, Total load=100 Crawled=78, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510004.pdf
+2015-11-17 23:19:58.823799	Thread 17, Total load=100 Crawled=68, Crawling https://fcbeacad.memphis.edu/syllabus/mis/2015FMIS8710001.pdf
+2015-11-17 23:20:00.608901	Thread 3, Total load=70 Crawled=15, Crawling http://www.memphis.edu/gradschool/faculty_staff/
+2015-11-17 23:20:03.019039	Thread 16, Total load=100 Crawled=79, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510006.pdf
+2015-11-17 23:20:05.548184	Thread 16 'charmap' codec can't encode character '\ufb01' in position 1586: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:20:05.997210	Thread 17, Total load=100 Crawled=69, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010001.pdf
+2015-11-17 23:20:10.566471	Thread 16, Total load=100 Crawled=80, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510007.pdf
+2015-11-17 23:20:12.611588	Thread 17, Total load=100 Crawled=70, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010002.pdf
+2015-11-17 23:20:18.099902	Thread 16, Total load=100 Crawled=81, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510301.pdf
+2015-11-17 23:20:19.516983	Thread 17, Total load=100 Crawled=71, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010003.pdf
+2015-11-17 23:20:24.258254	Thread 16, Total load=100 Crawled=82, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510502.pdf
+2015-11-17 23:20:25.558328	Thread 17, Total load=100 Crawled=72, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010004.pdf
+2015-11-17 23:20:28.405491	Thread 10, Total load=100 Crawled=38, Crawling http://www.memphis.edu/acad1100/
+2015-11-17 23:20:28.466495	Thread 5, Total load=45 Crawled=14, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-13.1101.htm
+2015-11-17 23:20:29.999582	Thread 17 'charmap' codec can't encode character '\ufb01' in position 16672: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:20:30.400605	Thread 16, Total load=100 Crawled=83, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510503.pdf
+2015-11-17 23:20:35.039871	Thread 17, Total load=100 Crawled=73, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010301.pdf
+2015-11-17 23:20:36.560958	Thread 16, Total load=100 Crawled=84, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510M51.pdf
+2015-11-17 23:20:38.383062	Thread 12, Total load=100 Crawled=11, Crawling http://www.memphis.edu/presweb/stratplan/
+2015-11-17 23:20:41.504240	Thread 17, Total load=100 Crawled=74, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010502.pdf
+2015-11-17 23:20:43.032328	Thread 16, Total load=100 Crawled=85, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510M52.pdf
+2015-11-17 23:20:45.971496	Thread 1, Total load=100 Crawled=16, Crawling http://www.memphis.edu/cris/intramurals/
+2015-11-17 23:20:48.043614	Thread 17, Total load=100 Crawled=75, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010M50.pdf
+2015-11-17 23:20:49.665707	Thread 16, Total load=100 Crawled=86, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3510M53.pdf
+2015-11-17 23:20:52.555873	Thread 17 'charmap' codec can't encode character '\ufb01' in position 17351: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:20:54.440980	Thread 18, Total load=100 Crawled=33, Crawling http://www.memphis.edu/law/programs/business-law-certificate.php
+2015-11-17 23:20:57.117133	Thread 16, Total load=100 Crawled=87, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT3812001.pdf
+2015-11-17 23:20:57.587160	Thread 17, Total load=100 Crawled=76, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3010M51.pdf
+2015-11-17 23:21:00.298315	Thread 23 pushed to busy thread list
+2015-11-17 23:21:00.397321	Thread 23, Total load=59 Crawled=0, Crawling http://www.memphis.edu/law/about/virtual-tour.php
+2015-11-17 23:21:02.587446	Thread 17 'charmap' codec can't encode character '\ufb01' in position 17351: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:03.622506	Thread 16, Total load=100 Crawled=88, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4240001.pdf
+2015-11-17 23:21:05.335603	Thread 11, Total load=100 Crawled=11, Crawling http://www.memphis.edu/psychology/
+2015-11-17 23:21:07.596733	Thread 17, Total load=100 Crawled=77, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3012001.pdf
+2015-11-17 23:21:10.068874	Thread 16, Total load=100 Crawled=89, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4251M50.pdf
+2015-11-17 23:21:11.554959	Thread 16 'charmap' codec can't encode character '\ufb01' in position 5188: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:13.863091	Thread 22, Total load=81 Crawled=1, Crawling https://sso.memphis.edu/idp/profile/Shibboleth/Redirect/SSO;jsessionid=d3gkkx6zepra19mkox8k12xoc
+2015-11-17 23:21:14.017100	Exception in urlcontentreader: https://sso.memphis.edu/idp/profile/Shibboleth/Redirect/SSO;jsessionid=d3gkkx6zepra19mkox8k12xoc HTTP Error 400: Bad Request
+2015-11-17 23:21:14.043102	Thread 22 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:21:14.251113	Thread 17, Total load=100 Crawled=78, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3012M50.pdf
+2015-11-17 23:21:16.583247	Thread 16, Total load=100 Crawled=90, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4260001.pdf
+2015-11-17 23:21:19.067389	Thread 22, Total load=81 Crawled=2, Crawling http://www.memphis.edu/bursar/staff.php
+2015-11-17 23:21:20.882493	Thread 17, Total load=100 Crawled=79, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3140001.pdf
+2015-11-17 23:21:21.681538	Thread 15, Total load=100 Crawled=7, Crawling http://www.memphis.edu/alumni/tigerpride/tigerstoday.php
+2015-11-17 23:21:23.639650	Thread 16, Total load=100 Crawled=91, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4260M50.pdf
+2015-11-17 23:21:24.463698	Thread 17 'charmap' codec can't encode character '\ufb01' in position 13630: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:25.425753	Thread 16 'charmap' codec can't encode character '\ufb01' in position 695: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:29.494985	Thread 17, Total load=100 Crawled=80, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3140M50.pdf
+2015-11-17 23:21:30.380036	Thread 17 'charmap' codec can't encode character '\ufb01' in position 6164: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:30.437039	Thread 16, Total load=100 Crawled=92, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4420001.pdf
+2015-11-17 23:21:31.747114	Thread 21, Total load=61 Crawled=2, Crawling https://offcampushousing.memphis.edu/
+2015-11-17 23:21:32.051132	Thread 16 'charmap' codec can't encode character '\ufb01' in position 5692: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:35.402323	Thread 17, Total load=100 Crawled=81, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3320001.pdf
+2015-11-17 23:21:37.070419	Thread 16, Total load=100 Crawled=93, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4420002.pdf
+2015-11-17 23:21:38.499500	Thread 16 'charmap' codec can't encode character '\ufb01' in position 5695: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:40.524616	Thread 4, Total load=18 Crawled=15, Crawling http://www.memphis.edu/fcbe/news/events.php
+2015-11-17 23:21:42.006701	Thread 17, Total load=100 Crawled=82, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3340001.pdf
+2015-11-17 23:21:43.525788	Thread 16, Total load=100 Crawled=94, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4420M50.pdf
+2015-11-17 23:21:44.947869	Thread 16 'charmap' codec can't encode character '\ufb01' in position 698: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:48.752087	Thread 17, Total load=100 Crawled=83, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG3410001.pdf
+2015-11-17 23:21:48.901095	Thread 20, Total load=100 Crawled=3, Crawling http://www.memphis.edu/chucalissa/schedule-fees/
+2015-11-17 23:21:49.959156	Thread 16, Total load=100 Crawled=95, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4461001.pdf
+2015-11-17 23:21:54.448413	Thread 17, Total load=100 Crawled=84, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4080001.pdf
+2015-11-17 23:21:56.507530	Thread 17 'charmap' codec can't encode character '\ufb01' in position 7456: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:21:57.120565	Thread 8, Total load=22 Crawled=15, Crawling http://www.memphis.edu/registrar/
+2015-11-17 23:21:59.854722	Thread 16, Total load=100 Crawled=96, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4461M50.pdf
+2015-11-17 23:22:01.516817	Thread 17, Total load=100 Crawled=85, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4080M50.pdf
+2015-11-17 23:22:04.954013	Thread 17 'charmap' codec can't encode character '\ufb01' in position 7765: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:22:05.851065	Thread 13, Total load=70 Crawled=9, Crawling http://www.memphis.edu/gradcatalog/academic_regulations/acad_reg.php
+2015-11-17 23:22:09.999302	Thread 17, Total load=100 Crawled=86, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4470001.pdf
+2015-11-17 23:22:12.329435	Thread 16, Total load=100 Crawled=97, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4510M50.pdf
+2015-11-17 23:22:15.988645	Thread 17, Total load=100 Crawled=87, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4470M50.pdf
+2015-11-17 23:22:18.844808	Thread 16, Total load=100 Crawled=98, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710001.pdf
+2015-11-17 23:22:20.240888	Thread 16 'charmap' codec can't encode character '\ufb01' in position 4821: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:22:22.760032	Thread 17, Total load=100 Crawled=88, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4530001.pdf
+2015-11-17 23:22:23.267061	Thread 17 'charmap' codec can't encode character '\ufb01' in position 709: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:22:25.281176	Thread 16, Total load=100 Crawled=99, Crawling https://fcbeacad.memphis.edu/syllabus/mgmt/2015FMGMT4710002.pdf
+2015-11-17 23:22:26.647254	Thread 16 'charmap' codec can't encode character '\ufb01' in position 4821: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:22:28.304349	Thread 17, Total load=100 Crawled=89, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4530M50.pdf
+2015-11-17 23:22:28.816378	Thread 17 'charmap' codec can't encode character '\ufb01' in position 709: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:22:30.028448	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.memphis.edu/presweb/about
+2015-11-17 23:22:31.694543	Thread 16 deleted
+2015-11-17 23:22:33.864667	Thread 17, Total load=100 Crawled=90, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4630001.pdf
+2015-11-17 23:22:37.198858	Thread 2, Total load=34 Crawled=16, Crawling http://www.memphis.edu/aa/provost/
+2015-11-17 23:22:41.198087	Thread 17, Total load=100 Crawled=91, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4901001.pdf
+2015-11-17 23:22:45.864353	Thread 9, Total load=58 Crawled=12, Crawling http://www.memphis.edu/accountancy/faculty/pbabin.php
+2015-11-17 23:22:47.124425	Thread 17, Total load=100 Crawled=92, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG4901M50.pdf
+2015-11-17 23:22:53.017763	Thread 17, Total load=100 Crawled=93, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG7140001.pdf
+2015-11-17 23:22:54.087824	Thread 14, Total load=18 Crawled=9, Crawling http://www.memphis.edu/museumstudies/about/
+2015-11-17 23:22:59.236118	Thread 17, Total load=100 Crawled=94, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG7140M50.pdf
+2015-11-17 23:23:00.447188	Thread 17 'charmap' codec can't encode character '\ufb01' in position 4606: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:23:02.742319	Thread 6, Total load=31 Crawled=14, Crawling http://www.memphis.edu/acadassessment/
+2015-11-17 23:23:04.527421	HTTP Error 404: Not Found: http://www.memphis.edu/gradschool/resources/forms_
+2015-11-17 23:23:04.947445	HTTP Error 404: Not Found: http://www.memphis.edu/iei/speak.php
+2015-11-17 23:23:05.457474	Thread 17, Total load=100 Crawled=95, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG7540001.pdf
+2015-11-17 23:23:07.621598	Thread 17 'charmap' codec can't encode characters in position 0-2: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:23:11.945845	Thread 3, Total load=70 Crawled=16, Crawling http://www.memphis.edu/gradschool/events/
+2015-11-17 23:23:12.069852	Thread 5, Total load=45 Crawled=15, Crawling http://www.memphis.edu/gradcatalog/degree_planning/cas/cog_sci.php
+2015-11-17 23:23:12.656886	Thread 17, Total load=100 Crawled=96, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG7542001.pdf
+2015-11-17 23:23:19.169258	Thread 17, Total load=100 Crawled=97, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG7555001.pdf
+2015-11-17 23:23:20.156315	Thread 10, Total load=100 Crawled=39, Crawling http://www.memphis.edu/advising/
+2015-11-17 23:23:26.712690	Thread 17, Total load=100 Crawled=98, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG7555M50.pdf
+2015-11-17 23:23:32.194003	Thread 12, Total load=100 Crawled=12, Crawling http://www.memphis.edu/about/tiger-pride.php
+2015-11-17 23:23:33.745092	Thread 17, Total load=100 Crawled=99, Crawling https://fcbeacad.memphis.edu/syllabus/mktg/2015FMKTG8217001.pdf
+2015-11-17 23:23:36.113227	Thread 17 'charmap' codec can't encode characters in position 0-1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:23:41.168517	Thread 17 deleted
+2015-11-17 23:23:41.230520	Thread 1, Total load=100 Crawled=17, Crawling http://www.memphis.edu/cris/
+2015-11-17 23:23:44.629715	Thread 24 pushed to busy thread list
+2015-11-17 23:23:44.689718	Thread 24, Total load=77 Crawled=0, Crawling http://www.memphis.edu/umtech/desktop_services/
+2015-11-17 23:23:49.662002	Thread 18, Total load=100 Crawled=34, Crawling http://www.memphis.edu/law/programs/health-law-certificate.php
+2015-11-17 23:24:01.852898	Thread 23, Total load=59 Crawled=1, Crawling http://www.memphis.edu/law/documents/ml-issue4-webready.pdf
+2015-11-17 23:24:11.123428	Thread 11, Total load=100 Crawled=12, Crawling http://www.memphis.edu/rlgn/
+2015-11-17 23:24:21.974049	Thread 22, Total load=81 Crawled=3, Crawling http://www.memphis.edu/bursar/calendars.php
+2015-11-17 23:24:24.389187	Thread 23 'charmap' codec can't encode characters in position 77-81: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:24:26.885330	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/master_plan_may_3_2010.pdf
+2015-11-17 23:24:27.508365	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/memphismatters
+2015-11-17 23:24:29.430475	Thread 23, Total load=59 Crawled=2, Crawling http://www.memphis.edu/law/about/ml-magazine.php
+2015-11-17 23:24:34.111743	Thread 15, Total load=100 Crawled=8, Crawling http://www.memphis.edu/alumni/tigerpride/traditions.php
+2015-11-17 23:24:47.127488	Thread 21, Total load=61 Crawled=3, Crawling http://www.memphis.edu/acc/
+2015-11-17 23:24:56.308013	Thread 4, Total load=18 Crawled=16, Crawling http://www.memphis.edu/supportfcbe/
+2015-11-17 23:25:05.498538	Thread 20, Total load=100 Crawled=4, Crawling http://www.memphis.edu/chucalissa/events/
+2015-11-17 23:25:14.507054	Thread 8, Total load=22 Crawled=16, Crawling http://www.memphis.edu/bursar/fees/
+2015-11-17 23:25:24.147605	Thread 13, Total load=70 Crawled=10, Crawling http://www.memphis.edu/gradcatalog/degree_planning/min_degree_req.php
+2015-11-17 23:25:34.426193	Thread 2, Total load=34 Crawled=17, Crawling https://elearn.memphis.edu
+2015-11-17 23:25:43.246296	Thread 9, Total load=58 Crawled=13, Crawling http://www.memphis.edu/accountancy/faculty/cbailey2.php
+2015-11-17 23:25:52.409821	Thread 14, Total load=18 Crawled=10, Crawling http://www.memphis.edu/museumstudies/program/
+2015-11-17 23:26:01.380334	Thread 6, Total load=31 Crawled=15, Crawling http://www.memphis.edu/innovation/
+2015-11-17 23:26:10.618862	Thread 3, Total load=70 Crawled=17, Crawling http://www.memphis.edu/gradschool/resources/
+2015-11-17 23:26:19.411365	Thread 5, Total load=45 Crawled=16, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-30.2501.htm
+2015-11-17 23:26:28.625892	Thread 10, Total load=100 Crawled=40, Crawling http://www.memphis.edu/cs/
+2015-11-17 23:26:37.452397	Thread 12, Total load=100 Crawled=13, Crawling http://www.memphis.edu/about/umhistory.php
+2015-11-17 23:26:42.021658	Thread 25 pushed to busy thread list
+2015-11-17 23:26:42.095662	Thread 25, Total load=100 Crawled=0, Crawling http://www.memphis.edu/law/about/administration.php
+2015-11-17 23:26:47.177953	Thread 1, Total load=100 Crawled=18, Crawling http://www.memphis.edu/rsp/
+2015-11-17 23:26:55.110407	Thread 24, Total load=77 Crawled=1, Crawling http://www.memphis.edu/umtech/smarttech_services/
+2015-11-17 23:26:56.667496	HTTP Error 404: Not Found: http://www.memphis.edu/law/futurestudents/campbell_revised_enrollmentform.pdf
+2015-11-17 23:27:03.601893	Thread 18, Total load=100 Crawled=35, Crawling http://www.memphis.edu/law/programs/tax-law-certificate.php
+2015-11-17 23:27:12.624409	Thread 11, Total load=100 Crawled=13, Crawling http://wangcenter.memphis.edu
+2015-11-17 23:27:12.693413	Thread 11 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:27:17.737701	Thread 11, Total load=100 Crawled=14, Crawling http://www.memphis.edu/suapp/
+2015-11-17 23:27:21.040890	Thread 22, Total load=81 Crawled=4, Crawling http://www.memphis.edu/bursar/info/erefund.php
+2015-11-17 23:27:26.710214	HTTP Error 404: Not Found: http://www.memphis.edu/law/news/ml_behindthescenes.php
+2015-11-17 23:27:33.671612	Thread 23, Total load=59 Crawled=3, Crawling http://www.memphis.edu/law/about/news/2015-heed-award.php
+2015-11-17 23:27:43.077150	Thread 15, Total load=100 Crawled=9, Crawling http://www.memphis.edu/alumni/tigerpride/memphisring.php
+2015-11-17 23:27:50.848595	Thread 21, Total load=61 Crawled=4, Crawling http://www.memphis.edu/benefits/staff.php
+2015-11-17 23:28:03.787335	Thread 4, Total load=18 Crawled=17, Crawling http://my.memphis.edu/cp/home/loginf
+2015-11-17 23:28:06.572494	Thread 19 'charmap' codec can't encode character '\u0141' in position 25892: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:28:06.585495	Thread 4 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:28:11.574780	Thread 19, Total load=100 Crawled=2, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2013_2014.pdf
+2015-11-17 23:28:11.588781	Thread 4 deleted
+2015-11-17 23:28:12.968860	Thread 20, Total load=100 Crawled=5, Crawling http://www.memphis.edu/chucalissa/contact.php
+2015-11-17 23:28:14.833967	Thread 2 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:28:15.686016	Thread 8, Total load=22 Crawled=17, Crawling http://www.memphis.edu/police/
+2015-11-17 23:28:19.855254	Thread 2, Total load=34 Crawled=18, Crawling http://www.memphis.edu/caas/
+2015-11-17 23:28:19.857254	Thread 13, Total load=70 Crawled=11, Crawling http://www.memphis.edu/reslife/apply.php
+2015-11-17 23:28:26.409629	Thread 9, Total load=58 Crawled=14, Crawling http://www.memphis.edu/accountancy/faculty/jgcoyne.php
+2015-11-17 23:28:34.203075	Thread 14, Total load=18 Crawled=11, Crawling http://www.memphis.edu/museumstudies/admissions/
+2015-11-17 23:28:39.791394	Thread 6, Total load=31 Crawled=16, Crawling http://www.memphis.edu/enrollment/
+2015-11-17 23:28:45.288709	Thread 3, Total load=70 Crawled=18, Crawling http://www.memphis.edu/gradschool/contacts.php
+2015-11-17 23:28:45.331711	Thread 5, Total load=45 Crawled=17, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-13.0101.htm
+2015-11-17 23:28:47.665845	Thread 19 'charmap' codec can't encode character '\u0141' in position 26080: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:28:50.079983	Thread 26 pushed to busy thread list
+2015-11-17 23:28:50.086983	Thread 26, Total load=65 Crawled=0, Crawling http://www.memphis.edu/advising/about.php
+2015-11-17 23:28:51.314053	Thread 10, Total load=100 Crawled=41, Crawling http://www.memphis.edu/registrar/students/records/gpa.php
+2015-11-17 23:28:52.668131	Thread 19, Total load=100 Crawled=3, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2012_2013.pdf
+2015-11-17 23:28:55.086269	Thread 12, Total load=100 Crawled=14, Crawling http://www.memphis.edu/graduateadmissions/future/
+2015-11-17 23:29:01.928660	Thread 25, Total load=100 Crawled=1, Crawling http://www.memphis.edu/law/about/history.php
+2015-11-17 23:29:07.007951	Thread 1, Total load=100 Crawled=19, Crawling http://www.memphis.edu/rsp/research_resources.php
+2015-11-17 23:29:07.688990	Thread 24 'charmap' codec can't encode characters in position 4459-4460: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:29:12.723278	Thread 24, Total load=77 Crawled=2, Crawling http://www.memphis.edu/umtech/student_sucess/
+2015-11-17 23:29:18.209592	Thread 18, Total load=100 Crawled=36, Crawling https://academics-s.memphis.edu/gradschool/
+2015-11-17 23:29:23.742908	Thread 11, Total load=100 Crawled=15, Crawling http://www.memphis.edu/sociology/
+2015-11-17 23:29:26.847086	Thread 19 'charmap' codec can't encode character '\u0141' in position 25955: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:29:27.651132	HTTP Error 403: Forbidden: http://www.memphis.edu/law/about/news
+2015-11-17 23:29:29.317227	Thread 22, Total load=81 Crawled=5, Crawling http://www.memphis.edu/bursar/accessinfo.php
+2015-11-17 23:29:31.850372	Thread 19, Total load=100 Crawled=4, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2011_2012.pdf
+2015-11-17 23:29:31.863373	[Errno 13] Permission denied: 'temp/undergraduate_bulletin_2011_2012.pdf' Exception; Exception occured in webpagereader.readpdftext.
+2015-11-17 23:29:31.868373	Exception in urlcontentreader: http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2011_2012.pdf [WinError 5] Access is denied: 'temp/undergraduate_bulletin_2011_2012.pdf'
+2015-11-17 23:29:31.875373	Thread 19 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:29:36.880660	Thread 19, Total load=100 Crawled=5, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2010_2011.pdf
+2015-11-17 23:29:37.726708	Thread 23, Total load=59 Crawled=4, Crawling http://www.memphis.edu/law/documents/2016-symposium-callforpapers.docx
+2015-11-17 23:29:37.801712	Thread 23 'charmap' codec can't encode character '\u0514' in position 579: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:29:40.403861	Thread 15, Total load=100 Crawled=10, Crawling http://www.memphis.edu/alumni/tigerpride/legacym.php
+2015-11-17 23:29:42.265968	HTTP Error 404: Not Found: http://www.memphis.edu/chucalissa/pdfs/Chucmap.pdf
+2015-11-17 23:29:42.804998	Thread 23, Total load=59 Crawled=5, Crawling http://www.memphis.edu/law/about/news/kiel-fulbright.php
+2015-11-17 23:29:43.134017	Thread 21, Total load=61 Crawled=5, Crawling http://www.memphis.edu/benefits/info/
+2015-11-17 23:29:47.670277	Thread 20, Total load=100 Crawled=6, Crawling http://www.memphis.edu/chucalissa/museum-store/
+2015-11-17 23:29:50.855459	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found: https://srweb.memphis.edu/StarRezPortal
+2015-11-17 23:29:51.890518	Thread 8, Total load=22 Crawled=18, Crawling http://www.memphis.edu/presweb/leadership/keyadministrators.php
+2015-11-17 23:29:56.350773	Thread 13, Total load=70 Crawled=12, Crawling http://www.memphis.edu/reslife/pdf/price15.pdf
+2015-11-17 23:30:01.852088	Thread 13, Total load=70 Crawled=13, Crawling http://www.memphis.edu/me/program/
+2015-11-17 23:30:02.858145	Thread 2, Total load=34 Crawled=19, Crawling http://www.memphis.edu/fedex/
+2015-11-17 23:30:08.103445	Thread 9, Total load=58 Crawled=15, Crawling http://www.memphis.edu/accountancy/faculty/nluo.php
+2015-11-17 23:30:13.530756	Thread 14, Total load=18 Crawled=12, Crawling http://www.memphis.edu/museumstudies/courses/
+2015-11-17 23:30:18.915064	Thread 6, Total load=31 Crawled=17, Crawling http://www.memphis.edu/space/
+2015-11-17 23:30:18.970067	Thread 5, Total load=45 Crawled=18, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-13.0407.htm
+2015-11-17 23:30:19.543100	Thread 27 pushed to busy thread list
+2015-11-17 23:30:19.564101	Thread 27, Total load=50 Crawled=0, Crawling http://www.memphis.edu/law/faculty-staff/peter-letsou.php
+2015-11-17 23:30:24.554386	Thread 3, Total load=70 Crawled=19, Crawling http://www.memphis.edu/gradschool/programs/abm.php
+2015-11-17 23:30:29.048643	HTTP Error 403: Forbidden: http://www.memphis.edu/registrar/students/records
+2015-11-17 23:30:30.697738	Thread 26, Total load=65 Crawled=1, Crawling http://www.memphis.edu/advising/findmyadvisor.php
+2015-11-17 23:30:36.479068	HTTP Error 404: Not Found: http://www.memphis.edu/graduateadmissions/future/banssbprod.memphis.edu/pls/PROD/bwskalog.P_DispLoginNon
+2015-11-17 23:30:36.748084	Thread 10, Total load=100 Crawled=42, Crawling http://www.memphis.edu/registrar/students/records/grades.php
+2015-11-17 23:30:42.512414	Thread 12, Total load=100 Crawled=15, Crawling http://www.memphis.edu/graduateadmissions/readmit/
+2015-11-17 23:30:51.449925	Thread 25, Total load=100 Crawled=2, Crawling http://www.memphis.edu/law/about/diversity.php
+2015-11-17 23:31:00.588447	Thread 1, Total load=100 Crawled=20, Crawling http://www.memphis.edu/gradcatalog/about/research_facilities/excellence.php
+2015-11-17 23:31:01.007471	HTTP Error 404: Not Found: http://www.memphis.edu/umtech/solutions/umware.php
+2015-11-17 23:31:02.036530	HTTP Error 404: Not Found: http://www.memphis.edu/commencement/prerequisites.htm
+2015-11-17 23:31:07.027816	Thread 24, Total load=77 Crawled=3, Crawling http://www.memphis.edu/umtech/solutions/
+2015-11-17 23:31:07.136822	Thread 18, Total load=100 Crawled=37, Crawling http://www.memphis.edu/gradschool/pdfs/forms/coursesubstitution.pdf
+2015-11-17 23:31:12.443125	Thread 18, Total load=100 Crawled=38, Crawling http://www.memphis.edu/gradschool/pdfs/forms/changeofstatus.pdf
+2015-11-17 23:31:13.121164	Thread 11, Total load=100 Crawled=16, Crawling http://www.memphis.edu/feinstone/
+2015-11-17 23:31:17.812433	Thread 18, Total load=100 Crawled=39, Crawling http://www.memphis.edu/ugcatalog/fac_staff/cas.php
+2015-11-17 23:31:19.491529	Thread 22, Total load=81 Crawled=6, Crawling http://www.memphis.edu/bursar/quality.php
+2015-11-17 23:31:20.373579	Thread 15 'charmap' codec can't encode character '\u2010' in position 6621: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:31:22.638709	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/academics
+2015-11-17 23:31:25.137852	Thread 19, Total load=100 Crawled=6, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2009_2010.pdf
+2015-11-17 23:31:25.376865	Thread 15, Total load=100 Crawled=11, Crawling http://www.memphis.edu/alumni/membership/email365.php
+2015-11-17 23:31:32.548275	Thread 23, Total load=59 Crawled=6, Crawling http://www.memphis.edu/law/about/newsandevents.php
+2015-11-17 23:31:35.181426	Thread 21, Total load=61 Crawled=6, Crawling http://www.memphis.edu/benefits/links.php
+2015-11-17 23:31:38.501616	Thread 20, Total load=100 Crawled=7, Crawling http://www.memphis.edu/chucalissa/pdfs/chuceconimpact.pdf
+2015-11-17 23:31:38.898639	Thread 20 'charmap' codec can't encode character '\ufb02' in position 2463: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:31:43.429898	HTTP Error 404: Not Found: http://www.memphis.edu/herff/herff_finance/grad_fellowship.htm
+2015-11-17 23:31:43.631909	HTTP Error 404: Not Found: http://www.memphis.edu/registrar/student/register/classes.htm
+2015-11-17 23:31:43.926926	Thread 20, Total load=100 Crawled=8, Crawling http://www.memphis.edu/chucalissa/pdfs/chuceduimpact.pdf
+2015-11-17 23:31:44.147939	Thread 8, Total load=22 Crawled=19, Crawling http://www.memphis.edu/suggestions/
+2015-11-17 23:31:44.525961	Thread 20 'charmap' codec can't encode character '\ufb01' in position 1642: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:31:49.543247	Thread 20, Total load=100 Crawled=9, Crawling http://www.memphis.edu/chucalissa/teacher-resources/
+2015-11-17 23:31:49.909268	Thread 13, Total load=70 Crawled=14, Crawling http://www.memphis.edu/me/students/
+2015-11-17 23:31:55.093565	Thread 2, Total load=34 Crawled=20, Crawling http://www.memphis.edu/accounting/gc.php
+2015-11-17 23:32:00.449871	Thread 9, Total load=58 Crawled=16, Crawling http://www.memphis.edu/accountancy/faculty/hkim20.php
+2015-11-17 23:32:05.749174	Thread 14, Total load=18 Crawled=13, Crawling http://www.memphis.edu/museumstudies/requirements/
+2015-11-17 23:32:06.584222	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/govern
+2015-11-17 23:32:06.937242	Thread 28 pushed to busy thread list
+2015-11-17 23:32:06.957243	Thread 28, Total load=78 Crawled=0, Crawling http://www.memphis.edu/registrar/students/records/grade-change.php
+2015-11-17 23:32:11.888526	Thread 6, Total load=31 Crawled=18, Crawling http://www.memphis.edu/lipman/
+2015-11-17 23:32:11.970530	Thread 5, Total load=45 Crawled=19, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-51.2310.htm
+2015-11-17 23:32:17.654855	Thread 27, Total load=50 Crawled=1, Crawling http://www.memphis.edu/law/faculty-staff/steve-mulroy.php
+2015-11-17 23:32:22.859153	Thread 3, Total load=70 Crawled=20, Crawling http://www.memphis.edu/gradschool/directory.php
+2015-11-17 23:32:25.115282	Thread 19, Total load=100 Crawled=7, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2008_2009.pdf
+2015-11-17 23:32:27.645427	Thread 26, Total load=65 Crawled=2, Crawling http://www.memphis.edu/advising/students/
+2015-11-17 23:32:31.094624	Thread 10, Total load=100 Crawled=43, Crawling http://www.memphis.edu/commencement/graduates/
+2015-11-17 23:32:36.840953	Thread 12, Total load=100 Crawled=16, Crawling http://www.memphis.edu/graduateadmissions/international/
+2015-11-17 23:32:39.251091	HTTP Error 404: Not Found: http://www.memphis.edu/law/facultystaff/bio/allen.php
+2015-11-17 23:32:45.165429	Thread 25, Total load=100 Crawled=3, Crawling http://www.memphis.edu/law/about/facilities.php
+2015-11-17 23:32:51.027764	Thread 1, Total load=100 Crawled=21, Crawling http://www.memphis.edu/rsp/vice_president/research_centers_institutes.php
+2015-11-17 23:32:52.451846	Thread 19, Total load=100 Crawled=8, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2007_2008.pdf
+2015-11-17 23:32:55.291008	Thread 24, Total load=77 Crawled=4, Crawling http://www.memphis.edu/umtech/service.php
+2015-11-17 23:32:59.216233	Thread 11, Total load=100 Crawled=17, Crawling http://www.memphis.edu/wmst/
+2015-11-17 23:33:04.405529	Thread 18, Total load=100 Crawled=40, Crawling http://www.memphis.edu/ugcatalog/fac_staff/fcbe.php
+2015-11-17 23:33:07.623713	Thread 19 'charmap' codec can't encode character '\ufb01' in position 585592: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:33:09.621828	Thread 22, Total load=81 Crawled=7, Crawling http://www.memphis.edu/bursar/loginchoice.php
+2015-11-17 23:33:12.626000	Thread 19, Total load=100 Crawled=9, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2006_2007.pdf
+2015-11-17 23:33:13.399044	Thread 15, Total load=100 Crawled=12, Crawling http://www.memphis.edu/alumni/events/gotogame.php
+2015-11-17 23:33:20.122428	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/clubs/umar.php
+2015-11-17 23:33:20.217434	Thread 23, Total load=59 Crawled=7, Crawling http://onlegalgrounds.law.memphis.edu/wordpress/
+2015-11-17 23:33:26.189775	Thread 21, Total load=61 Crawled=7, Crawling http://www.memphis.edu/benefits/ss_beninfo.php
+2015-11-17 23:33:27.432846	Thread 19 'charmap' codec can't encode character '\ufb01' in position 580227: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:33:31.433075	Thread 8, Total load=22 Crawled=20, Crawling http://wp.memphis.edu
+2015-11-17 23:33:32.436133	Thread 19, Total load=100 Crawled=10, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2005_2006.pdf
+2015-11-17 23:33:34.700262	Thread 20, Total load=100 Crawled=10, Crawling http://www.memphis.edu/chucalissa/anoachi-newsletter/
+2015-11-17 23:33:38.680490	Thread 13, Total load=70 Crawled=15, Crawling http://www.memphis.edu/me/faculty/
+2015-11-17 23:33:44.275810	Thread 2, Total load=34 Crawled=21, Crawling http://www.memphis.edu/ehs/
+2015-11-17 23:33:46.635945	Thread 19 'charmap' codec can't encode character '\ufb01' in position 585442: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:33:48.182033	Thread 29 pushed to busy thread list
+2015-11-17 23:33:48.186033	Thread 29, Total load=100 Crawled=0, Crawling http://www.memphis.edu/law/faculty-staff/adjunct-faculty.php
+2015-11-17 23:33:49.725121	Thread 9, Total load=58 Crawled=17, Crawling http://www.memphis.edu/accountancy/faculty/klambert.php
+2015-11-17 23:33:51.639231	Thread 19, Total load=100 Crawled=11, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2004_2005.pdf
+2015-11-17 23:33:53.186319	Thread 14, Total load=18 Crawled=14, Crawling http://www.memphis.edu/museumstudies/faculty/
+2015-11-17 23:33:56.112487	Thread 28, Total load=78 Crawled=1, Crawling http://www.memphis.edu/registrar/students/records/transcript.php
+2015-11-17 23:33:56.131488	Thread 5, Total load=45 Crawled=20, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-09.0401.htm
+2015-11-17 23:34:01.736809	Thread 6, Total load=31 Crawled=19, Crawling http://www.memphis.edu/benefits/discounts.php
+2015-11-17 23:34:05.735037	Thread 19 'charmap' codec can't encode character '\ufb01' in position 386094: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:34:07.274125	Thread 27, Total load=50 Crawled=2, Crawling http://www.memphis.edu/umtech/smarttech_services/mission.php
+2015-11-17 23:34:10.737323	Thread 19, Total load=100 Crawled=12, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2003_2004.pdf
+2015-11-17 23:34:25.064143	Thread 19 'charmap' codec can't encode character '\ufb01' in position 254229: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:34:27.629289	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.me.memphis.edu
+2015-11-17 23:34:27.695293	HTTP Error 404: Not Found: http://www.memphis.edu/sph/PhD_program.php
+2015-11-17 23:34:27.708294	HTTP Error 404: Not Found: http://www.memphis.edu/sph/mph
+2015-11-17 23:34:27.721295	HTTP Error 404: Not Found: http://www.memphis.edu/sph/mha
+2015-11-17 23:34:30.067429	Thread 19, Total load=100 Crawled=13, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_2001_2003.pdf
+2015-11-17 23:34:32.998597	Thread 3, Total load=70 Crawled=21, Crawling http://www.memphis.edu/gradcatalog/degree_planning/bus/acct.php
+2015-11-17 23:34:37.901877	Thread 26, Total load=65 Crawled=3, Crawling http://www.memphis.edu/advising/parents/
+2015-11-17 23:34:42.883162	Thread 19 'charmap' codec can't encode character '\ufb01' in position 128425: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:34:47.886448	Thread 19, Total load=100 Crawled=14, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_1999_2001.pdf
+2015-11-17 23:34:55.332874	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.memphis.edu/fac_staff
+2015-11-17 23:35:01.782243	Thread 19, Total load=100 Crawled=15, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_1997_1999.pdf
+2015-11-17 23:35:02.755299	Thread 10, Total load=100 Crawled=44, Crawling http://www.memphis.edu/ugcatalog/honors_awards.php
+2015-11-17 23:35:05.642464	Thread 12, Total load=100 Crawled=17, Crawling http://www.memphis.edu/gradcatalog/admissions/
+2015-11-17 23:35:14.302959	Thread 25, Total load=100 Crawled=4, Crawling http://www.memphis.edu/law/about/floorplans.php
+2015-11-17 23:35:21.358363	Thread 1, Total load=100 Crawled=22, Crawling http://www.memphis.edu/rsp/portal/
+2015-11-17 23:35:21.838390	Thread 19, Total load=100 Crawled=16, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_1996_1997.pdf
+2015-11-17 23:35:28.287759	Thread 24, Total load=77 Crawled=5, Crawling http://www.memphis.edu/umtech/service_desk/contact.php
+2015-11-17 23:35:33.840077	Thread 11, Total load=100 Crawled=18, Crawling http://www.memphis.edu/amum/
+2015-11-17 23:35:37.515287	Thread 19, Total load=100 Crawled=17, Crawling http://www.memphis.edu/ugcatalog/pdfs/undergraduate_bulletin_1995_1996.pdf
+2015-11-17 23:35:38.162324	Thread 18, Total load=100 Crawled=41, Crawling http://www.memphis.edu/ugcatalog/fac_staff/ccfa.php
+2015-11-17 23:35:41.349506	Thread 22, Total load=81 Crawled=8, Crawling http://www.memphis.edu/bf/forms/finance.php
+2015-11-17 23:35:47.391852	Thread 15, Total load=100 Crawled=13, Crawling http://www.memphis.edu/hr/staff.php
+2015-11-17 23:35:49.974999	Thread 23 'charmap' codec can't encode characters in position 3193-3194: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:35:52.952170	Thread 8 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:35:53.038175	Thread 19, Total load=100 Crawled=18, Crawling http://www.memphis.edu/rsp/compliance/
+2015-11-17 23:35:54.981286	Thread 23, Total load=59 Crawled=8, Crawling http://www.memphis.edu/law/events/calendars.php
+2015-11-17 23:35:57.948455	Thread 21, Total load=61 Crawled=8, Crawling http://www.memphis.edu/benefits/aca.php
+2015-11-17 23:35:57.958456	Thread 8, Total load=22 Crawled=21, Crawling https://umdrive.memphis.edu/dspice/www/mastershandbook.pdf%20
+2015-11-17 23:35:58.903510	Thread 8 'charmap' codec can't encode characters in position 61-63: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:36:01.015631	Thread 20, Total load=100 Crawled=11, Crawling http://www.memphis.edu/chucalissa/links.php
+2015-11-17 23:36:02.813734	Thread 30 pushed to busy thread list
+2015-11-17 23:36:02.821734	Thread 30, Total load=100 Crawled=0, Crawling http://www.memphis.edu/feinstone/campus-partners.php
+2015-11-17 23:36:03.906796	Thread 8 deleted
+2015-11-17 23:36:04.648839	Thread 13, Total load=70 Crawled=16, Crawling http://www.memphis.edu/me/research/
+2015-11-17 23:36:07.821020	Thread 2, Total load=34 Crawled=22, Crawling http://www.memphis.edu/presweb/
+2015-11-17 23:36:11.015203	Thread 29, Total load=100 Crawled=1, Crawling http://www.memphis.edu/law/faculty-staff/emeritus-faculty.php
+2015-11-17 23:36:12.002259	HTTP Error 404: Not Found: http://www.memphis.edu/history/bios/bio_onstine.htm
+2015-11-17 23:36:14.125381	Thread 9, Total load=58 Crawled=18, Crawling http://www.memphis.edu/accountancy/faculty/cjlngstr.php
+2015-11-17 23:36:17.306563	Thread 14, Total load=18 Crawled=15, Crawling https://umdrive.memphis.edu/dspice/www/mastershandbook.pdf
+2015-11-17 23:36:17.322564	Thread 5, Total load=45 Crawled=21, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-51.3805.htm
+2015-11-17 23:36:18.228615	Thread 14 'charmap' codec can't encode characters in position 61-63: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:36:20.274732	Thread 28, Total load=78 Crawled=2, Crawling http://www.memphis.edu/registrar/students/records/lambuth.php
+2015-11-17 23:36:23.231902	Thread 14, Total load=18 Crawled=16, Crawling http://www.memphis.edu/lead/pdfs/student_personnel_program_information.pdf
+2015-11-17 23:36:23.719929	Thread 6, Total load=31 Crawled=20, Crawling http://www.memphis.edu/tigercopy/
+2015-11-17 23:36:26.791105	Thread 27, Total load=50 Crawled=3, Crawling http://www.memphis.edu/umtech/smarttech_services/employment.php
+2015-11-17 23:36:28.438199	Thread 14, Total load=18 Crawled=17, Crawling http://www.memphis.edu/lead/docs/studiesmsstudentpersonnel.doc
+2015-11-17 23:36:28.470201	Thread 14 'charmap' codec can't encode character '\u0871' in position 1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:36:30.087294	Thread 3, Total load=70 Crawled=22, Crawling http://www.memphis.edu/gradcatalog/degree_planning/cas/anth.php
+2015-11-17 23:36:33.067464	Thread 26, Total load=65 Crawled=4, Crawling http://www.memphis.edu/advising/advisors/
+2015-11-17 23:36:33.475487	Thread 14 deleted
+2015-11-17 23:36:36.213644	Thread 10, Total load=100 Crawled=45, Crawling http://www.memphis.edu/academics/ugmajors.php
+2015-11-17 23:36:39.144812	Thread 12, Total load=100 Crawled=18, Crawling http://www.memphis.edu/graduateadmissions/future/admproc.php
+2015-11-17 23:36:45.576180	Thread 25, Total load=100 Crawled=5, Crawling http://www.memphis.edu/law/faculty-staff/faculty-news.php
+2015-11-17 23:36:48.521348	Thread 1, Total load=100 Crawled=23, Crawling http://www.memphis.edu/oir/
+2015-11-17 23:36:53.268620	Thread 24, Total load=77 Crawled=6, Crawling http://www.memphis.edu/umtech/asktom.php
+2015-11-17 23:36:56.262791	Thread 11, Total load=100 Crawled=19, Crawling http://www.memphis.edu/caeser/
+2015-11-17 23:36:57.275849	HTTP Error 404: Not Found: http://www.memphis.edu/accounting/xls/request_for_banner_
+2015-11-17 23:36:59.202959	Thread 18, Total load=100 Crawled=42, Crawling http://www.memphis.edu/ugcatalog/fac_staff/education.php
+2015-11-17 23:37:03.503205	Thread 22, Total load=81 Crawled=9, Crawling http://www.memphis.edu/bursar/cashhand.php
+2015-11-17 23:37:06.400371	Thread 15, Total load=100 Crawled=14, Crawling http://www.memphis.edu/hr/departments.php
+2015-11-17 23:37:09.432544	Thread 19, Total load=100 Crawled=19, Crawling http://www.memphis.edu/rsp/vice_president/
+2015-11-17 23:37:16.211932	Thread 23, Total load=59 Crawled=9, Crawling http://www.memphis.edu/fcbeinternships/
+2015-11-17 23:37:17.293994	Thread 31 pushed to busy thread list
+2015-11-17 23:37:17.299994	Thread 31, Total load=100 Crawled=0, Crawling http://www.memphis.edu/graduateadmissions/international/app_dec_grad.php
+2015-11-17 23:37:19.334110	Thread 21, Total load=61 Crawled=9, Crawling http://www.memphis.edu/benefits/info/educ.php
+2015-11-17 23:37:22.301280	Thread 20, Total load=100 Crawled=12, Crawling http://www.memphis.edu/chucalissa/people/
+2015-11-17 23:37:25.435459	Thread 30, Total load=100 Crawled=1, Crawling http://www.memphis.edu/feinstone/contact.php
+2015-11-17 23:37:44.346541	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.me.memphis.edu/FRC/home.htm
+2015-11-17 23:38:05.356743	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.me.memphis.edu/CIDM/Design_projects.htm
+2015-11-17 23:38:26.361944	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.me.memphis.edu/MAR_LAB/MAR_Lab/home.htm
+2015-11-17 23:38:31.637246	Thread 13, Total load=70 Crawled=17, Crawling http://www.memphis.edu/me/alumni/
+2015-11-17 23:38:35.731480	Thread 2, Total load=34 Crawled=23, Crawling http://www.memphis.edu/aa/
+2015-11-17 23:38:35.866488	<urlopen error [Errno 11004] getaddrinfo failed>: http://www.people.memphis.edu/~cjlngstr
+2015-11-17 23:38:38.530640	Thread 29, Total load=100 Crawled=2, Crawling http://www.memphis.edu/law/documents/letsou-2015cv.doc
+2015-11-17 23:38:38.560642	Thread 29 'charmap' codec can't encode character '\u0871' in position 1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:38:41.111788	Thread 9, Total load=58 Crawled=19, Crawling http://www.memphis.edu/accountancy/faculty/jlukawtz.php
+2015-11-17 23:38:41.127789	Thread 5, Total load=45 Crawled=22, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-45.0702.htm
+2015-11-17 23:38:43.564928	Thread 29, Total load=100 Crawled=3, Crawling http://www.memphis.edu/gradschool/programs/abm_procedures.php
+2015-11-17 23:38:43.856945	Thread 28, Total load=78 Crawled=3, Crawling http://www.memphis.edu/registrar/students/records/ferpa-annual.php
+2015-11-17 23:38:46.690107	Thread 6, Total load=31 Crawled=21, Crawling http://www.memphis.edu/mail/
+2015-11-17 23:38:49.455265	Thread 27, Total load=50 Crawled=4, Crawling http://www.memphis.edu/umtech/smarttech_services/streaming_events.php
+2015-11-17 23:38:52.292427	Thread 3, Total load=70 Crawled=23, Crawling http://www.memphis.edu/gradcatalog/degree_planning/cas/comp.php
+2015-11-17 23:38:55.758626	Thread 26, Total load=65 Crawled=5, Crawling http://www.memphis.edu/advising/contactus.php
+2015-11-17 23:38:58.461780	Thread 10, Total load=100 Crawled=46, Crawling http://www.memphis.edu/msci/
+2015-11-17 23:38:58.826801	HTTP Error 404: Not Found: http://www.memphis.edu/law/pdfs/nationaljurist_mcclurgarticle.pdf
+2015-11-17 23:39:01.456952	Thread 12, Total load=100 Crawled=19, Crawling http://www.memphis.edu/graduateadmissions/future/appcheck.php
+2015-11-17 23:39:01.685965	HTTP Error 404: Not Found: http://www.memphis.edu/oir/studentdata/degree
+2015-11-17 23:39:04.086102	Thread 25, Total load=100 Crawled=6, Crawling http://www.memphis.edu/law/about/contact.php
+2015-11-17 23:39:08.518355	Thread 1, Total load=100 Crawled=24, Crawling http://www.memphis.edu/development/
+2015-11-17 23:39:12.190565	Thread 24, Total load=77 Crawled=7, Crawling http://www.memphis.edu/alumni/about/staff.php
+2015-11-17 23:39:14.857718	Thread 11, Total load=100 Crawled=20, Crawling http://www.memphis.edu/cristal/
+2015-11-17 23:39:17.421865	Thread 18, Total load=100 Crawled=43, Crawling http://www.memphis.edu/ugcatalog/fac_staff/herff.php
+2015-11-17 23:39:23.393206	Thread 22, Total load=81 Crawled=10, Crawling http://www.memphis.edu/ugcatalog/services/orientation.php
+2015-11-17 23:39:26.154162	Thread 15, Total load=100 Crawled=15, Crawling http://www.memphis.edu/hr/newsletter.php
+2015-11-17 23:39:26.899204	Thread 32 pushed to busy thread list
+2015-11-17 23:39:26.907205	Thread 32, Total load=100 Crawled=0, Crawling http://www.memphis.edu/amum/doit.php
+2015-11-17 23:39:28.986324	Thread 19, Total load=100 Crawled=20, Crawling http://www.memphis.edu/rsp/sponsored_programs/
+2015-11-17 23:39:31.906491	Thread 23, Total load=59 Crawled=10, Crawling http://www.memphis.edu/professional/programs/act.php
+2015-11-17 23:39:34.766654	Thread 31, Total load=100 Crawled=1, Crawling http://www.memphis.edu/graduateadmissions/international/i20_f1_info.php
+2015-11-17 23:39:37.681821	Thread 21, Total load=61 Crawled=10, Crawling http://www.memphis.edu/lambuth/Programs/programsundergraduate.php
+2015-11-17 23:39:40.495982	Thread 20, Total load=100 Crawled=13, Crawling http://www.memphis.edu/admissions/pdfs/checklist-1.pdf
+2015-11-17 23:39:40.985010	HTTP Error 404: Not Found: http://www.memphis.edu/me/pdfs/tombarrowcomemphis.pdf
+2015-11-17 23:39:43.299142	Thread 30, Total load=100 Crawled=2, Crawling http://www.memphis.edu/alumni/membership/insurance.php
+2015-11-17 23:39:45.900291	Thread 20, Total load=100 Crawled=14, Crawling http://www.memphis.edu/admissions/freshmen/visitcampus.php
+2015-11-17 23:39:46.274312	Thread 13, Total load=70 Crawled=18, Crawling http://www.memphis.edu/me/news/
+2015-11-17 23:39:50.188536	Thread 2, Total load=34 Crawled=24, Crawling http://www.memphis.edu/bf/
+2015-11-17 23:39:50.209537	Thread 5, Total load=45 Crawled=23, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-51.0706.htm
+2015-11-17 23:39:53.064701	Thread 9, Total load=58 Crawled=20, Crawling http://www.memphis.edu/accountancy/faculty/jmalloy.php
+2015-11-17 23:39:55.831859	Thread 29, Total load=100 Crawled=4, Crawling http://www.memphis.edu/ugcatalog/collegeprog/ccfa/jour.php
+2015-11-17 23:39:58.488011	Thread 28, Total load=78 Crawled=4, Crawling http://www.memphis.edu/registrar/students/records/release.php
+2015-11-17 23:40:01.204166	Thread 6, Total load=31 Crawled=22, Crawling http://www.memphis.edu/parking/
+2015-11-17 23:40:02.633248	HTTP Error 404: Not Found: http://www.memphis.edu/cs/pdfs/application_info_assurance.pdf
+2015-11-17 23:40:05.211395	Thread 27, Total load=50 Crawled=5, Crawling http://www.memphis.edu/umtech/smarttech_services/smart_contact.php
+2015-11-17 23:40:07.906550	Thread 3, Total load=70 Crawled=24, Crawling http://www.memphis.edu/gradcatalog/degree_planning/ccfa/arch.php
+2015-11-17 23:40:10.634706	Thread 26, Total load=65 Crawled=6, Crawling http://www.memphis.edu/umdegree/
+2015-11-17 23:40:13.533871	Thread 10, Total load=100 Crawled=47, Crawling http://www.memphis.edu/physics/SHOPP/
+2015-11-17 23:40:16.353033	Thread 12, Total load=100 Crawled=20, Crawling http://www.memphis.edu/graduateadmissions/future/residency.php
+2015-11-17 23:40:20.523271	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/veterans
+2015-11-17 23:40:22.249370	Thread 25, Total load=100 Crawled=7, Crawling http://www.memphis.edu/psychology/undergraduate/
+2015-11-17 23:40:25.925580	Thread 1, Total load=100 Crawled=25, Crawling http://umwa.memphis.edu/new_giving/
+2015-11-17 23:40:28.752742	Thread 24, Total load=77 Crawled=8, Crawling http://www.memphis.edu/alumni/about/contact.php
+2015-11-17 23:40:31.573903	Thread 11, Total load=100 Crawled=21, Crawling http://www.memphis.edu/testing/services/clep.php
+2015-11-17 23:40:34.299059	Thread 18, Total load=100 Crawled=44, Crawling http://www.memphis.edu/ugcatalog/fac_staff/lson.php
+2015-11-17 23:40:34.906094	Thread 33 pushed to busy thread list
+2015-11-17 23:40:34.913094	Thread 33, Total load=100 Crawled=0, Crawling http://www.memphis.edu/law/events/
+2015-11-17 23:40:37.094219	Thread 22, Total load=81 Crawled=11, Crawling http://www.memphis.edu/ugcatalog/services/studentaid.php
+2015-11-17 23:40:39.912380	Thread 15, Total load=100 Crawled=16, Crawling http://www.memphis.edu/hr/posters.php
+2015-11-17 23:40:42.596534	Thread 32, Total load=100 Crawled=1, Crawling http://www.memphis.edu/egypt/events/
+2015-11-17 23:40:45.381693	Thread 19, Total load=100 Crawled=21, Crawling http://www.memphis.edu/rsp/development/
+2015-11-17 23:40:46.957783	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/bursar/fees
+2015-11-17 23:40:48.357863	Thread 23, Total load=59 Crawled=11, Crawling http://www.memphis.edu/professional/
+2015-11-17 23:40:52.213084	Thread 31, Total load=100 Crawled=2, Crawling http://www.memphis.edu/rsp/vice_president/core_facilities.php
+2015-11-17 23:40:55.034245	Thread 21, Total load=61 Crawled=11, Crawling http://www.memphis.edu/lambuth/Programs/programsgraduate.php
+2015-11-17 23:40:57.607392	Thread 30, Total load=100 Crawled=3, Crawling http://www.memphis.edu/alumni/membership/travel.php
+2015-11-17 23:41:00.412553	Thread 20, Total load=100 Crawled=15, Crawling http://www.memphis.edu/admissions/freshmen/req_freshman.php
+2015-11-17 23:41:03.273716	Thread 13, Total load=70 Crawled=19, Crawling http://www.memphis.edu/me/accreditation/
+2015-11-17 23:41:03.298718	Thread 5, Total load=45 Crawled=24, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-14.1001.htm
+2015-11-17 23:41:05.862865	Thread 2, Total load=34 Crawled=25, Crawling https://workforum.memphis.edu
+2015-11-17 23:41:06.637909	Thread 29 'charmap' codec can't encode character '\u25aa' in position 4940: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:41:08.761030	Thread 9, Total load=58 Crawled=21, Crawling http://www.memphis.edu/accountancy/faculty/mcmickle.php
+2015-11-17 23:41:11.643195	Thread 29, Total load=100 Crawled=5, Crawling http://www.memphis.edu/ugcatalog/collegeprog/cas/african.php
+2015-11-17 23:41:14.292347	Thread 28, Total load=78 Crawled=5, Crawling http://www.memphis.edu/registrar/students/records/personal-data.php
+2015-11-17 23:41:17.051504	Thread 6, Total load=31 Crawled=23, Crawling https://bf.memphis.edu/training/
+2015-11-17 23:41:19.709657	Thread 27, Total load=50 Crawled=6, Crawling http://www.memphis.edu/suapp/about/
+2015-11-17 23:41:22.364808	Thread 3, Total load=70 Crawled=25, Crawling http://www.memphis.edu/gradcatalog/degree_planning/ccfa/art.php
+2015-11-17 23:41:25.152968	Thread 26, Total load=65 Crawled=7, Crawling http://www.memphis.edu/consider/
+2015-11-17 23:41:28.019132	Thread 10, Total load=100 Crawled=48, Crawling http://www.memphis.edu/socialwork/
+2015-11-17 23:41:28.863180	HTTP Error 404: Not Found: http://umwa.memphis.edu/new_giving/user_guide
+2015-11-17 23:41:30.826292	Thread 12, Total load=100 Crawled=21, Crawling http://www.memphis.edu/graduateadmissions/future/evea.php
+2015-11-17 23:41:33.864466	Thread 25, Total load=100 Crawled=8, Crawling http://www.memphis.edu/psychology/graduate/
+2015-11-17 23:41:33.874467	Thread 1, Total load=100 Crawled=26, Crawling http://www.memphis.edu/alumni/
+2015-11-17 23:41:36.390611	Thread 24, Total load=77 Crawled=9, Crawling http://www.memphis.edu/alumni/about/mission.php
+2015-11-17 23:41:37.108652	Thread 34 pushed to busy thread list
+2015-11-17 23:41:37.116652	Thread 34, Total load=100 Crawled=0, Crawling http://www.memphis.edu/gradcatalog/degree_planning/course_descriptions/cas/comp.php
+2015-11-17 23:41:39.418784	Thread 11, Total load=100 Crawled=22, Crawling http://www.memphis.edu/testing/services/compass.php
+2015-11-17 23:41:42.115938	Thread 18, Total load=100 Crawled=45, Crawling http://www.memphis.edu/ugcatalog/fac_staff/uc.php
+2015-11-17 23:41:44.791091	Thread 33, Total load=100 Crawled=1, Crawling https://emsws.memphis.edu/virtualems/
+2015-11-17 23:41:47.679256	Thread 22, Total load=81 Crawled=12, Crawling http://www.memphis.edu/ugcatalog/services/grants.php
+2015-11-17 23:41:50.400412	Thread 15, Total load=100 Crawled=17, Crawling http://umwa.memphis.edu/umpolicies/index.php
+2015-11-17 23:41:56.113739	Thread 32, Total load=100 Crawled=2, Crawling http://www.memphis.edu/amum/about/visitmuseum.php
+2015-11-17 23:41:58.690886	Thread 19, Total load=100 Crawled=22, Crawling http://www.memphis.edu/rsp/compliance/human_subjects.php
+2015-11-17 23:42:01.555050	Thread 23, Total load=59 Crawled=12, Crawling http://bf.memphis.edu/hr/benefits/prospective.php
+2015-11-17 23:42:04.495218	Thread 31, Total load=100 Crawled=3, Crawling http://www.memphis.edu/imc/
+2015-11-17 23:42:07.499390	Thread 21, Total load=61 Crawled=12, Crawling http://www.memphis.edu/innovation/millington/15f_schedule_millington.pdf
+2015-11-17 23:42:10.318551	Thread 30, Total load=100 Crawled=4, Crawling http://www.memphis.edu/alumni/membership/newgrads.php
+2015-11-17 23:42:12.771692	Thread 21, Total load=61 Crawled=13, Crawling http://www.memphis.edu/innovation/collierville/homeschool_students_handout.pdf
+2015-11-17 23:42:12.984704	Thread 21 'charmap' codec can't encode character '\u0141' in position 443: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:42:17.987990	Thread 21, Total load=61 Crawled=14, Crawling http://www.memphis.edu/law/admissions/guide-to-applying.php
+2015-11-17 23:42:28.409586	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.memphis.edu/cares
+2015-11-17 23:42:34.061909	Thread 20, Total load=100 Crawled=16, Crawling http://www.memphis.edu/admissions/freshmen/comp_review.php
+2015-11-17 23:42:34.079910	Thread 5, Total load=45 Crawled=25, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-11.1003.htm
+2015-11-17 23:42:34.393928	HTTP Error 404: Not Found: https://workforum.memphis.edu/help
+2015-11-17 23:42:36.846068	Thread 13, Total load=70 Crawled=20, Crawling http://www.memphis.edu/me/about/
+2015-11-17 23:42:37.195088	<urlopen error [Errno 11004] getaddrinfo failed>: http://www.people.memphis.edu/~mcmickle
+2015-11-17 23:42:39.641228	Thread 2, Total load=34 Crawled=26, Crawling http://www.memphis.edu/conferences/
+2015-11-17 23:42:42.444389	Thread 9, Total load=58 Crawled=22, Crawling http://www.memphis.edu/accountancy/faculty/lmoore2.php
+2015-11-17 23:42:45.225548	Thread 29, Total load=100 Crawled=6, Crawling http://www.memphis.edu/ugcatalog/collegeprog/cas/engl.php
+2015-11-17 23:42:45.776579	HTTP Error 404: Not Found: http://www.memphis.edu/suapp/hcdfellowship.php
+2015-11-17 23:42:45.789580	HTTP Error 404: Not Found: http://www.memphis.edu/suapp/docs/AnniversaryReport.pdf
+2015-11-17 23:42:48.169716	Thread 28, Total load=78 Crawled=6, Crawling http://www.memphis.edu/registrar/students/records/withdraw.php
+2015-11-17 23:42:48.423731	Thread 6, Total load=31 Crawled=24, Crawling http://www.memphis.edu/umtech/service_desk/
+2015-11-17 23:42:51.086883	Thread 27, Total load=50 Crawled=7, Crawling http://www.memphis.edu/suapp/departments/
+2015-11-17 23:42:53.797038	Thread 3, Total load=70 Crawled=26, Crawling http://www.memphis.edu/gradcatalog/degree_planning/scsd.php
+2015-11-17 23:42:56.357184	Thread 26, Total load=65 Crawled=8, Crawling http://www.memphis.edu/cris/about/hours.php
+2015-11-17 23:42:59.221348	Thread 10, Total load=100 Crawled=49, Crawling http://www.memphis.edu/summer/
+2015-11-17 23:43:02.036509	Thread 12, Total load=100 Crawled=22, Crawling http://www.memphis.edu/graduateadmissions/future/timeframe.php
+2015-11-17 23:43:04.698662	Thread 1, Total load=100 Crawled=27, Crawling http://blogs.memphis.edu/president/2014/09/18/year-of-service/
+2015-11-17 23:43:05.406702	Thread 35 pushed to busy thread list
+2015-11-17 23:43:05.410702	Thread 35, Total load=100 Crawled=0, Crawling http://www.memphis.edu/testing/services/opi.php
+2015-11-17 23:43:07.522823	HTTP Error 403: Forbidden: http://www.memphis.edu/gradcatalog/degree_planning/course_descriptions/cas
+2015-11-17 23:43:07.666831	Thread 25, Total load=100 Crawled=9, Crawling http://www.memphis.edu/psychology/people/
+2015-11-17 23:43:10.409988	Thread 24, Total load=77 Crawled=10, Crawling http://www.memphis.edu/alumni/about/faq.php
+2015-11-17 23:43:13.230150	Thread 34, Total load=100 Crawled=1, Crawling http://www.memphis.edu/msci/about/
+2015-11-17 23:43:19.193491	Thread 11, Total load=100 Crawled=23, Crawling http://www.memphis.edu/conferences/services/conference-housing.php
+2015-11-17 23:43:22.000651	Thread 18, Total load=100 Crawled=46, Crawling http://www.memphis.edu/ugcatalog/fac_staff/hprm.php
+2015-11-17 23:43:22.093656	Thread 33, Total load=100 Crawled=2, Crawling http://www.memphis.edu/conferences/pdf/vems_rso_training.pdf
+2015-11-17 23:43:24.671804	Thread 22, Total load=81 Crawled=13, Crawling http://www.memphis.edu/ugcatalog/services/stu_employment.php
+2015-11-17 23:43:25.108829	Thread 15, Total load=100 Crawled=18, Crawling http://www.memphis.edu/hrpartners/
+2015-11-17 23:43:26.210892	HTTP Error 404: Not Found: http://www.memphis.edu/facres/calendars.php
+2015-11-17 23:43:27.585971	Thread 33, Total load=100 Crawled=3, Crawling http://www.memphis.edu/law/documents/law-school-calendar-instructions.docx
+2015-11-17 23:43:28.266010	Thread 32, Total load=100 Crawled=3, Crawling http://www.memphis.edu/amum/about/contact.php
+2015-11-17 23:43:28.382016	Thread 33 'charmap' codec can't encode character '\u0116' in position 563: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:43:31.036168	Thread 19, Total load=100 Crawled=23, Crawling http://www.memphis.edu/rsp/compliance/education.php
+2015-11-17 23:43:31.222179	Thread 23, Total load=59 Crawled=13, Crawling http://www.memphis.edu/admissions/transfer/et_disclaimer.php
+2015-11-17 23:43:33.385302	Thread 33, Total load=100 Crawled=4, Crawling http://www.memphis.edu/me/research/low_gravity.php
+2015-11-17 23:43:34.247352	Thread 31, Total load=100 Crawled=4, Crawling http://www.memphis.edu/crow/
+2015-11-17 23:43:34.796383	Thread 21 'charmap' codec can't encode character '\u25a1' in position 7274: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:43:36.867502	Thread 30, Total load=100 Crawled=5, Crawling http://www.memphis.edu/alumni/membership/studentmembership.php
+2015-11-17 23:43:39.801669	Thread 21, Total load=61 Crawled=15, Crawling http://www.memphis.edu/law/admissions/lsat-prep.php
+2015-11-17 23:43:39.811670	Thread 5, Total load=45 Crawled=26, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-13.0501.htm
+2015-11-17 23:43:42.735837	Thread 20, Total load=100 Crawled=17, Crawling http://www.memphis.edu/admissions/freshmen/talented10.php
+2015-11-17 23:43:45.584000	Thread 13, Total load=70 Crawled=21, Crawling http://www.memphis.edu/ceri/
+2015-11-17 23:43:45.597001	HTTP Error 404: Not Found: http://umdrive.memphis.edu/lmoore2/www
+2015-11-17 23:43:45.916019	Thread 9 'charmap' codec can't encode character '\u3000' in position 30034: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:43:48.251153	Thread 2, Total load=34 Crawled=27, Crawling http://www.memphis.edu/govern/
+2015-11-17 23:43:50.921305	Thread 9, Total load=58 Crawled=23, Crawling http://www.memphis.edu/accountancy/faculty/jmnevels.php
+2015-11-17 23:43:54.554513	Thread 29, Total load=100 Crawled=7, Crawling http://www.memphis.edu/ugcatalog/collegeprog/Univ_college/alcohol.php
+2015-11-17 23:43:57.195664	Thread 28, Total load=78 Crawled=7, Crawling http://www.memphis.edu/registrar/students/selfserv/
+2015-11-17 23:44:00.203836	Thread 6, Total load=31 Crawled=25, Crawling https://umdrive.memphis.edu/xythoswfs/
+2015-11-17 23:44:00.225838	Thread 6 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:44:02.926992	Thread 27, Total load=50 Crawled=8, Crawling http://www.memphis.edu/suapp/people/
+2015-11-17 23:44:05.230124	Thread 6, Total load=31 Crawled=26, Crawling http://www.memphis.edu/umtech/teaching/
+2015-11-17 23:44:05.709151	Thread 3, Total load=70 Crawled=27, Crawling http://www.memphis.edu/gradcatalog/degree_planning/cas/binf.php
+2015-11-17 23:44:08.341302	Thread 26, Total load=65 Crawled=9, Crawling http://www.memphis.edu/cris/aquatics/swim-lessons.php
+2015-11-17 23:44:11.228467	Thread 10, Total load=100 Crawled=50, Crawling http://www.memphis.edu/admissions/transfer/equivalency_table.php
+2015-11-17 23:44:14.056629	Thread 12, Total load=100 Crawled=23, Crawling http://www.memphis.edu/graduateadmissions/future/border.php
+2015-11-17 23:44:43.720325	Thread 36 pushed to busy thread list
+2015-11-17 23:44:43.728326	Thread 36, Total load=89 Crawled=0, Crawling http://www.memphis.edu/psychology/graduate/gscctravel.php
+2015-11-17 23:44:48.726612	Thread 1, Total load=100 Crawled=28, Crawling http://www.memphis.edu/libraries/
+2015-11-17 23:44:51.275757	Thread 35, Total load=100 Crawled=1, Crawling http://www.memphis.edu/testing/services/para-pro.php
+2015-11-17 23:44:51.812788	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/benefits/discountdirections.php
+2015-11-17 23:44:54.334932	Thread 25, Total load=100 Crawled=10, Crawling http://www.memphis.edu/psychology/centers/
+2015-11-17 23:44:54.841961	Thread 34 'charmap' codec can't encode character '\u0151' in position 6275: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:44:57.075089	Thread 24, Total load=77 Crawled=11, Crawling http://www.memphis.edu/alumni/about/manuals.php
+2015-11-17 23:44:59.847248	Thread 34, Total load=100 Crawled=2, Crawling http://www.memphis.edu/msci/people/
+2015-11-17 23:45:02.584404	Thread 11, Total load=100 Crawled=24, Crawling http://www.memphis.edu/cium/
+2015-11-17 23:45:05.376564	Thread 18, Total load=100 Crawled=47, Crawling http://www.memphis.edu/ugcatalog/fac_staff/honors.php
+2015-11-17 23:45:08.294731	Thread 22, Total load=81 Crawled=14, Crawling http://www.memphis.edu/ugcatalog/services/scholarships.php
+2015-11-17 23:45:11.175896	Thread 15, Total load=100 Crawled=19, Crawling http://www.memphis.edu/bf/forms/hr.php
+2015-11-17 23:45:13.957055	Thread 32, Total load=100 Crawled=4, Crawling http://www.memphis.edu/amum/about/supportamum.php
+2015-11-17 23:45:16.977227	Thread 19, Total load=100 Crawled=24, Crawling http://www.memphis.edu/rsp/compliance/board_members.php
+2015-11-17 23:45:19.798389	Thread 23, Total load=59 Crawled=14, Crawling http://www.memphis.edu/admissions/campustour.php
+2015-11-17 23:45:22.644552	Thread 33, Total load=100 Crawled=5, Crawling http://www.memphis.edu/me/research/iac.php
+2015-11-17 23:45:22.902566	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/benefits
+2015-11-17 23:45:22.915567	HTTP Error 404: Not Found: http://www.memphis.edu/alumni/thefam
+2015-11-17 23:45:25.275702	Thread 31, Total load=100 Crawled=5, Crawling http://www.memphis.edu/crep/
+2015-11-17 23:45:28.180868	Thread 30, Total load=100 Crawled=6, Crawling http://www.memphis.edu/alumni/membership/pouncerspals.php
+2015-11-17 23:45:28.196869	Thread 5, Total load=45 Crawled=27, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-24.0101.htm
+2015-11-17 23:45:31.133037	Thread 21, Total load=61 Crawled=16, Crawling http://www.memphis.edu/law/admissions/transferinformation.php
+2015-11-17 23:45:33.791189	Thread 20, Total load=100 Crawled=18, Crawling http://www.memphis.edu/admissions/freshmen/residency.php
+2015-11-17 23:45:36.739358	Thread 13, Total load=70 Crawled=22, Crawling http://www.memphis.edu/physics/
+2015-11-17 23:45:39.575520	Thread 2, Total load=34 Crawled=28, Crawling http://www.memphis.edu/its/
+2015-11-17 23:45:42.207671	Thread 9, Total load=58 Crawled=24, Crawling http://www.memphis.edu/accountancy/faculty/zrezaee.php
+2015-11-17 23:45:45.139838	Thread 29, Total load=100 Crawled=8, Crawling http://www.memphis.edu/univcoll/resources/advising.php
+2015-11-17 23:45:48.133009	Thread 28, Total load=78 Crawled=8, Crawling http://www.memphis.edu/registrar/students/records/repeats.php
+2015-11-17 23:46:04.493945	HTTP Error 404: Not Found: http://www.memphis.edu/suapp/people/http:/www.memphis.edu/suapp
+2015-11-17 23:46:07.438114	HTTP Error 404: Not Found: http://www.memphis.edu/umtech/teaching/ecoursewae_
+2015-11-17 23:46:09.834251	Thread 27, Total load=50 Crawled=9, Crawling http://www.memphis.edu/suapp/resources/
+2015-11-17 23:46:12.850423	Thread 3 'charmap' codec can't encode character '\u2010' in position 8926: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:46:12.990431	Thread 6, Total load=31 Crawled=27, Crawling http://www.memphis.edu/umtech/smarttech_services/smart_classroom.php
+2015-11-17 23:46:17.856710	Thread 3, Total load=70 Crawled=28, Crawling http://www.memphis.edu/gradcatalog/degree_planning/cas/biol.php
+2015-11-17 23:46:20.571865	Thread 26, Total load=65 Crawled=10, Crawling http://www.memphis.edu/umtech/desktop_services/mission.php
+2015-11-17 23:46:21.712930	Thread 37 pushed to busy thread list
+2015-11-17 23:46:21.719931	Thread 37, Total load=100 Crawled=0, Crawling http://www.memphis.edu/psychology/people/faculty/andrasik.php
+2015-11-17 23:46:23.718045	Thread 10, Total load=100 Crawled=51, Crawling http://www.memphis.edu/registrar/students/records/transcript-unofficial.php
+2015-11-17 23:46:24.330080	HTTP Error 404: Not Found: http://www.memphis.edu/cas/donovan.htm
+2015-11-17 23:46:26.719216	Thread 12, Total load=100 Crawled=24, Crawling http://www.memphis.edu/graduateadmissions/future/app_ack.php
+2015-11-17 23:46:29.602381	Thread 36, Total load=89 Crawled=1, Crawling http://www.memphis.edu/psychology/graduate/outcomesdata/2015_student_admissions_outcomes_and_other_data_website_update_rev1.pdf
+2015-11-17 23:46:30.374426	Thread 36 'charmap' codec can't encode character '\ufb01' in position 9810: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:46:34.405656	Thread 1, Total load=100 Crawled=29, Crawling http://www.memphis.edu/libraries/resources/
+2015-11-17 23:46:35.376712	Thread 36, Total load=89 Crawled=2, Crawling http://www.memphis.edu/psychology/graduate/outcomesdata/2015_school_student_admissions_outcomes_and_other_data_website_rev1.pdf
+2015-11-17 23:46:37.245819	Thread 35, Total load=100 Crawled=2, Crawling http://www.memphis.edu/testing/services/proctor.php
+2015-11-17 23:46:38.064865	HTTP Error 403: Forbidden: http://www.memphis.edu/alumni/about/pdfs
+2015-11-17 23:46:40.221989	Thread 25, Total load=100 Crawled=11, Crawling http://www.memphis.edu/psychology/research/researchlabs.php
+2015-11-17 23:46:41.489061	Thread 34 'charmap' codec can't encode characters in position 5831-5833: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:46:41.565066	Thread 36, Total load=89 Crawled=3, Crawling http://www.memphis.edu/testing/pdfs/compass_score_transfer_request.pdf
+2015-11-17 23:46:41.617069	Thread 36 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:46:43.351168	Thread 24, Total load=77 Crawled=12, Crawling http://www.memphis.edu/alumni/about/awards.php
+2015-11-17 23:46:44.570237	Thread 11 'charmap' codec can't encode characters in position 5496-5499: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:46:46.492347	Thread 34, Total load=100 Crawled=3, Crawling http://www.memphis.edu/msci/ugrad/
+2015-11-17 23:46:46.620355	Thread 36, Total load=89 Crawled=4, Crawling https://emsws.memphis.edu/VirtualEms/
+2015-11-17 23:46:49.574524	Thread 11, Total load=100 Crawled=25, Crawling http://www.memphis.edu/about/directions.php
+2015-11-17 23:46:50.181558	HTTP Error 404: Not Found: http://www.memphis.edu/scholarships/listscholarships.php
+2015-11-17 23:46:50.193559	HTTP Error 404: Not Found: http://www.memphis.edu/cas/scholarships.htm
+2015-11-17 23:46:50.218561	HTTP Error 404: Not Found: http://www.memphis.edu/ccfa/scholarshipsandawards.php
+2015-11-17 23:46:50.252563	HTTP Error 404: Not Found: http://www.memphis.edu/herff/herff_finance/herffscholar.php
+2015-11-17 23:46:50.265563	HTTP Error 404: Not Found: http://www.memphis.edu/nursing/scholarshiploans.php
+2015-11-17 23:46:50.278564	HTTP Error 404: Not Found: http://www.memphis.edu/univcoll/scholarship.php
+2015-11-17 23:46:50.291565	HTTP Error 404: Not Found: http://www.memphis.edu/nrotc/prospective_students.htm
+2015-11-17 23:46:50.305566	HTTP Error 404: Not Found: http://www.memphis.edu/afrotc/new_cadets.htm
+2015-11-17 23:46:52.524692	Thread 18, Total load=100 Crawled=48, Crawling http://www.memphis.edu/ugcatalog/fac_staff/library.php
+2015-11-17 23:46:55.595868	Thread 22, Total load=81 Crawled=15, Crawling http://www.memphis.edu/ugcatalog/services/registration.php
+2015-11-17 23:46:58.896057	Thread 15, Total load=100 Crawled=20, Crawling http://www.memphis.edu/oed/umboarding.php
+2015-11-17 23:47:00.019121	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/alumni/getinvolved
+2015-11-17 23:47:01.615212	Thread 32, Total load=100 Crawled=5, Crawling http://www.memphis.edu/bf/forms/
+2015-11-17 23:47:05.396429	Thread 19, Total load=100 Crawled=25, Crawling http://www.memphis.edu/rsp/compliance/exemption.php
+2015-11-17 23:47:08.276593	Thread 23, Total load=59 Crawled=15, Crawling http://www.memphis.edu/parking/permit/visitor.php
+2015-11-17 23:47:11.249763	Thread 33, Total load=100 Crawled=6, Crawling http://www.memphis.edu/me/research/big_data.php
+2015-11-17 23:47:15.422002	Thread 31, Total load=100 Crawled=6, Crawling http://www.memphis.edu/csd/research/crisci.php
+2015-11-17 23:47:15.444003	Thread 5, Total load=45 Crawled=28, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-13.1502.htm
+2015-11-17 23:47:18.420174	Thread 30, Total load=100 Crawled=7, Crawling http://www.memphis.edu/benefits/pdf/beneficiary_changes.pdf
+2015-11-17 23:47:21.516351	Thread 21, Total load=61 Crawled=17, Crawling http://www.memphis.edu/law/about/tip.php
+2015-11-17 23:47:23.538466	Thread 30, Total load=100 Crawled=8, Crawling http://www.memphis.edu/benefits/pdf/2015fsaguide.pdf
+2015-11-17 23:47:24.107499	Thread 30 'charmap' codec can't encode character '\ufb01' in position 12863: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:47:24.568525	Thread 20, Total load=100 Crawled=19, Crawling http://www.memphis.edu/admissions/freshmen/evea.php
+2015-11-17 23:47:27.638701	Thread 13, Total load=70 Crawled=23, Crawling http://www.memphis.edu/economics/
+2015-11-17 23:47:29.110785	Thread 30, Total load=100 Crawled=9, Crawling http://www.memphis.edu/benefits/pdf/fbmcclaim.pdf
+2015-11-17 23:47:32.393973	Thread 2, Total load=34 Crawled=29, Crawling http://www.memphis.edu/communications/
+2015-11-17 23:47:34.446090	Thread 30, Total load=100 Crawled=10, Crawling http://www.memphis.edu/benefits/pdf/flexbook14.pdf
+2015-11-17 23:47:35.041124	Thread 30 'charmap' codec can't encode character '\u02da' in position 1054: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:47:35.311140	Thread 9, Total load=58 Crawled=25, Crawling http://www.memphis.edu/accountancy/faculty/dspice.php
+2015-11-17 23:47:38.349313	Thread 29, Total load=100 Crawled=9, Crawling http://www.memphis.edu/ugcatalog/collegeprog/cas/anth.php
+2015-11-17 23:47:38.837341	HTTP Error 404: Not Found: http://www.memphis.edu/gradcatalog/assistantship.php
+2015-11-17 23:47:38.916346	HTTP Error 404: Not Found: http://www.memphis.edu/suapp/qualtrics.php
+2015-11-17 23:47:38.930347	HTTP Error 404: Not Found: http://www.memphis.edu/esfc/es_facstaff.php
+2015-11-17 23:47:38.956348	HTTP Error 404: Not Found: http://www.memphis.edu/majors/graduate.php
+2015-11-17 23:47:40.044410	Thread 30, Total load=100 Crawled=11, Crawling http://www.memphis.edu/benefits/pdf/ltdexempt.pdf
+2015-11-17 23:47:41.367486	Thread 28, Total load=78 Crawled=9, Crawling http://www.memphis.edu/registrar/students/selfserv/transcript-un.php
+2015-11-17 23:47:44.286653	Thread 27, Total load=50 Crawled=10, Crawling http://www.memphis.edu/suapp/strengthening-communities/
+2015-11-17 23:47:45.210706	Thread 30, Total load=100 Crawled=12, Crawling http://www.memphis.edu/benefits/pdf/ltd_enroll_exempt.pdf
+2015-11-17 23:47:49.016924	Thread 6, Total load=31 Crawled=28, Crawling https://umwa.memphis.edu/gartner/login.php
+2015-11-17 23:47:49.042925	Thread 6 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:47:49.989979	Thread 38 pushed to busy thread list
+2015-11-17 23:47:49.997980	Thread 38, Total load=100 Crawled=0, Crawling http://www.memphis.edu/registrar/students/selfserv/grades-official.php
+2015-11-17 23:47:50.580013	Thread 30, Total load=100 Crawled=13, Crawling http://www.memphis.edu/benefits/pdf/ltd_cert_exempt.pdf
+2015-11-17 23:47:51.656075	Thread 30 'charmap' codec can't encode character '\ufb01' in position 9082: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:47:51.917090	Thread 3, Total load=70 Crawled=29, Crawling http://www.memphis.edu/gradcatalog/degree_planning/engr/biom.php
+2015-11-17 23:47:52.437119	HTTP Error 403: Forbidden: http://www.memphis.edu/psychology/people/faculty
+2015-11-17 23:47:54.048211	Thread 6, Total load=31 Crawled=29, Crawling http://www.memphis.edu/facultysenate/
+2015-11-17 23:47:54.996266	Thread 26, Total load=65 Crawled=11, Crawling http://www.memphis.edu/umtech/desktop_services/desktop.php
+2015-11-17 23:47:56.659361	Thread 30, Total load=100 Crawled=14, Crawling http://www.memphis.edu/benefits/pdf/ltdnonexempt.pdf
+2015-11-17 23:47:58.033439	Thread 37, Total load=100 Crawled=1, Crawling http://www.memphis.edu/psychology/people/faculty/baker.php
+2015-11-17 23:48:01.329628	Thread 10, Total load=100 Crawled=52, Crawling http://www.memphis.edu/admissions/freshmen/acm.php
+2015-11-17 23:48:01.833657	Thread 30, Total load=100 Crawled=15, Crawling http://www.memphis.edu/benefits/pdf/ltd_enroll_nonex.pdf
+2015-11-17 23:48:04.183791	Thread 12, Total load=100 Crawled=25, Crawling http://www.memphis.edu/graduateadmissions/future/app_rev_grad.php
+2015-11-17 23:48:07.172962	Thread 30, Total load=100 Crawled=16, Crawling http://www.memphis.edu/benefits/pdf/eoi.pdf
+2015-11-17 23:48:07.336971	Thread 30 'charmap' codec can't encode character '\ufb01' in position 608: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:48:07.815999	Thread 1, Total load=100 Crawled=30, Crawling http://www.memphis.edu/libraries/services/
+2015-11-17 23:48:10.745166	Thread 35, Total load=100 Crawled=3, Crawling http://www.memphis.edu/testing/about/staff.php
+2015-11-17 23:48:12.340258	Thread 30, Total load=100 Crawled=17, Crawling http://www.memphis.edu/benefits/info/tda.php
+2015-11-17 23:48:13.782340	Thread 25, Total load=100 Crawled=12, Crawling http://www.memphis.edu/psychology/resources/
+2015-11-17 23:48:17.460551	Thread 24, Total load=77 Crawled=13, Crawling http://www.memphis.edu/accountancy/admissions/scholarships.php
+2015-11-17 23:48:20.536726	Thread 34, Total load=100 Crawled=4, Crawling http://www.memphis.edu/msci/grad/
+2015-11-17 23:48:20.626732	Thread 36, Total load=89 Crawled=5, Crawling https://emsws.memphis.edu/virtualems/Login.aspx
+2015-11-17 23:48:23.483895	Thread 11, Total load=100 Crawled=26, Crawling http://bf.memphis.edu/fecc/
+2015-11-17 23:48:26.408062	Thread 18, Total load=100 Crawled=49, Crawling http://www.memphis.edu/bursar/index.php
+2015-11-17 23:48:29.518240	Thread 22, Total load=81 Crawled=16, Crawling http://www.memphis.edu/ugcatalog/services/development.php
+2015-11-17 23:48:32.306400	Thread 15, Total load=100 Crawled=21, Crawling http://www.memphis.edu/lambuth/services/servicesit.php
+2015-11-17 23:48:34.981553	Thread 32, Total load=100 Crawled=6, Crawling http://www.memphis.edu/bf/departments.php
+2015-11-17 23:48:37.919721	Thread 19, Total load=100 Crawled=26, Crawling http://www.memphis.edu/rsp/compliance/decision_guide.php
+2015-11-17 23:48:40.915892	Thread 23, Total load=59 Crawled=16, Crawling http://www.memphis.edu/ugcatalog/yearcalendar.php
+2015-11-17 23:48:43.746054	Thread 33, Total load=100 Crawled=7, Crawling http://www.memphis.edu/me/news/navy_supports_me.php
+2015-11-17 23:48:46.748226	Thread 31, Total load=100 Crawled=7, Crawling http://www.memphis.edu/crews/
+2015-11-17 23:48:46.767227	Thread 5, Total load=45 Crawled=29, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-45.1002.htm
+2015-11-17 23:48:52.784571	Thread 21, Total load=61 Crawled=18, Crawling http://www.memphis.edu/law/admissions/visit.php
+2015-11-17 23:48:56.187766	Thread 20, Total load=100 Crawled=20, Crawling http://www.memphis.edu/admissions/freshmen/timeframe.php
+2015-11-17 23:48:59.125934	Thread 13, Total load=70 Crawled=24, Crawling http://www.memphis.edu/mscm/
+2015-11-17 23:49:01.990097	Thread 2, Total load=34 Crawled=30, Crawling http://www.memphis.edu/studentaffairs/
+2015-11-17 23:49:05.129277	Thread 9, Total load=58 Crawled=26, Crawling http://www.memphis.edu/accountancy/faculty/cspice.php
+2015-11-17 23:49:22.714283	<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>: http://www.memphis.edu/ugcatalog
+2015-11-17 23:49:29.197654	Thread 29, Total load=100 Crawled=10, Crawling http://www.memphis.edu/cas/advising/advisors.php
+2015-11-17 23:49:30.312717	Thread 39 pushed to busy thread list
+2015-11-17 23:49:30.320718	Thread 39, Total load=100 Crawled=0, Crawling http://www.memphis.edu/msci/people/rmcctchn.php
+2015-11-17 23:49:32.238828	Thread 28, Total load=78 Crawled=10, Crawling http://www.memphis.edu/graduateadmissions/future/masters.php
+2015-11-17 23:49:35.320004	Thread 27, Total load=50 Crawled=11, Crawling http://www.memphis.edu/suapp/hcdfellowship/
+2015-11-17 23:49:38.027159	Thread 38, Total load=100 Crawled=1, Crawling http://www.memphis.edu/suapp/people/http:/www.memphis.edu/suapp
+2015-11-17 23:49:38.040159	Exception in urlcontentreader: http://www.memphis.edu/suapp/people/http:/www.memphis.edu/suapp HTTP Error 404: Not Found
+2015-11-17 23:49:38.047160	Thread 38 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:49:41.187339	Thread 3, Total load=70 Crawled=30, Crawling http://www.memphis.edu/gradcatalog/degree_planning/bus/
+2015-11-17 23:49:43.053446	Thread 38, Total load=100 Crawled=2, Crawling http://www.memphis.edu/umtech/teaching/mission.php
+2015-11-17 23:49:44.822547	Thread 6, Total load=31 Crawled=30, Crawling http://www.memphis.edu/staffsenate/
+2015-11-17 23:49:47.850721	Thread 26, Total load=65 Crawled=12, Crawling http://www.memphis.edu/umtech/desktop_services/ltsp.php
+2015-11-17 23:49:50.670882	Thread 37, Total load=100 Crawled=2, Crawling http://www.memphis.edu/psychology/people/faculty/beck.php
+2015-11-17 23:49:53.938069	Thread 10, Total load=100 Crawled=53, Crawling http://www.memphis.edu/admissions/transfer/
+2015-11-17 23:49:56.930240	Thread 12, Total load=100 Crawled=26, Crawling http://www.memphis.edu/graduateadmissions/future/app_dec_grad.php
+2015-11-17 23:49:59.912410	Thread 1, Total load=100 Crawled=31, Crawling http://www.memphis.edu/libraries/special-collections/
+2015-11-17 23:50:02.713571	Thread 35, Total load=100 Crawled=4, Crawling http://www.memphis.edu/hr/pdf/7975epos.pdf
+2015-11-17 23:50:05.355722	Thread 30, Total load=100 Crawled=18, Crawling http://www.memphis.edu/benefits/info/aflac.php
+2015-11-17 23:50:07.805862	Thread 35, Total load=100 Crawled=5, Crawling http://www.memphis.edu/hr/pdf/eeosp.pdf
+2015-11-17 23:50:07.864865	Thread 35 'charmap' codec can't encode character '\u2044' in position 3292: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:50:08.567905	Thread 25, Total load=100 Crawled=13, Crawling http://www.memphis.edu/psychology/graduate/apply.php
+2015-11-17 23:50:10.096993	Thread 36 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:50:11.789090	Thread 24, Total load=77 Crawled=14, Crawling http://www.memphis.edu/fcbescholarships/
+2015-11-17 23:50:12.868151	Thread 35, Total load=100 Crawled=6, Crawling http://www.memphis.edu/hr/pdf/minwagep.pdf
+2015-11-17 23:50:15.018274	Thread 34, Total load=100 Crawled=5, Crawling http://www.memphis.edu/msci/research/
+2015-11-17 23:50:15.108280	Thread 36, Total load=89 Crawled=6, Crawling http://umwa.memphis.edu/umpolicies//umpolicies.php
+2015-11-17 23:50:15.620309	Thread 11, Total load=100 Crawled=27, Crawling http://www.memphis.edu/foundation/
+2015-11-17 23:50:18.139453	Thread 35, Total load=100 Crawled=7, Crawling http://www.memphis.edu/hr/pdf/fmlaengc.pdf
+2015-11-17 23:50:18.160454	ord() expected string of length 1, but int found Exception; Exception occured in webpagereader.readpdftext.
+2015-11-17 23:50:18.165454	Exception in urlcontentreader: http://www.memphis.edu/hr/pdf/fmlaengc.pdf [WinError 32] The process cannot access the file because it is being used by another process: 'temp/fmlaengc.pdf'
+2015-11-17 23:50:18.171455	Thread 35 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:50:18.794490	Thread 18, Total load=100 Crawled=50, Crawling http://www.memphis.edu/parking/staff.php
+2015-11-17 23:50:21.840665	Thread 22, Total load=81 Crawled=17, Crawling http://www.memphis.edu/ugcatalog/services/life.php
+2015-11-17 23:50:23.176741	Thread 35, Total load=100 Crawled=8, Crawling http://www.memphis.edu/hr/pdf/userra.pdf
+2015-11-17 23:50:25.527876	Thread 15, Total load=100 Crawled=22, Crawling http://www.memphis.edu/lambuth/services/serviceslibrary.php
+2015-11-17 23:50:28.343037	Thread 19 'charmap' codec can't encode character '\u2010' in position 5603: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:50:30.197143	Thread 35, Total load=100 Crawled=9, Crawling http://www.memphis.edu/hr/pdf/eppac.pdf
+2015-11-17 23:50:30.218144	ord() expected string of length 1, but int found Exception; Exception occured in webpagereader.readpdftext.
+2015-11-17 23:50:30.224144	Exception in urlcontentreader: http://www.memphis.edu/hr/pdf/eppac.pdf [WinError 32] The process cannot access the file because it is being used by another process: 'temp/eppac.pdf'
+2015-11-17 23:50:30.229144	Thread 35 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:50:30.418155	Thread 32, Total load=100 Crawled=7, Crawling http://www.memphis.edu/bf/vmv.php
+2015-11-17 23:50:33.349323	Thread 19, Total load=100 Crawled=27, Crawling http://www.memphis.edu/rsp/compliance/adverse_events.php
+2015-11-17 23:50:35.234431	Thread 35, Total load=100 Crawled=10, Crawling http://www.memphis.edu/hr/pdf/eppaspan.pdf
+2015-11-17 23:50:40.316721	Thread 35, Total load=100 Crawled=11, Crawling http://www.memphis.edu/hr/pdf/titlevi.pdf
+2015-11-17 23:50:40.366724	Thread 35 'charmap' codec can't encode character '\ufb01' in position 541: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:50:45.372011	Thread 35, Total load=100 Crawled=12, Crawling http://www.memphis.edu/hr/pdf/titleix.pdf
+2015-11-17 23:50:48.658199	Thread 23, Total load=59 Crawled=17, Crawling http://www.memphis.edu/careerservices/employers/tigerlink.php
+2015-11-17 23:50:50.398298	Thread 35, Total load=100 Crawled=13, Crawling http://www.memphis.edu/hr/pdf/credentials.pdf
+2015-11-17 23:50:51.797378	Thread 33, Total load=100 Crawled=8, Crawling http://www.memphis.edu/me/research/properties_poly.php
+2015-11-17 23:50:51.826380	Thread 5, Total load=45 Crawled=30, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-30.1401.htm
+2015-11-17 23:50:54.926557	Thread 31, Total load=100 Crawled=8, Crawling http://www.memphis.edu/iis/
+2015-11-17 23:50:55.462588	Thread 35, Total load=100 Crawled=14, Crawling http://www.memphis.edu/hr/pdf/taxpayer.pdf
+2015-11-17 23:50:55.491589	Thread 35 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:50:58.118740	Thread 21, Total load=61 Crawled=19, Crawling http://www.memphis.edu/law/admissions/profile_and_facts.php
+2015-11-17 23:51:00.496876	Thread 35, Total load=100 Crawled=15, Crawling http://www.memphis.edu/hr/pdf/wc_certificate.pdf
+2015-11-17 23:51:02.438987	Thread 20, Total load=100 Crawled=21, Crawling http://www.memphis.edu/admissions/freshmen/border.php
+2015-11-17 23:51:05.582167	Thread 35, Total load=100 Crawled=16, Crawling http://www.memphis.edu/hr/pdf/wc_certificate_sp.pdf
+2015-11-17 23:51:05.586167	Thread 13, Total load=70 Crawled=25, Crawling http://www.memphis.edu/ce/
+2015-11-17 23:51:08.970360	Thread 2, Total load=34 Crawled=31, Crawling https://www.memphis.edu/betsie/parser.pl
+2015-11-17 23:51:10.763463	Thread 35, Total load=100 Crawled=17, Crawling http://www.memphis.edu/hr/pdf/newtoshaposter.pdf
+2015-11-17 23:51:11.376498	Thread 40 pushed to busy thread list
+2015-11-17 23:51:11.380498	Thread 40, Total load=100 Crawled=0, Crawling http://www.memphis.edu/msci/ugrad/admissions.php
+2015-11-17 23:51:12.450559	Thread 9, Total load=58 Crawled=27, Crawling http://www.memphis.edu/accountancy/faculty/itnkrsly.php
+2015-11-17 23:51:15.871755	Thread 35, Total load=100 Crawled=18, Crawling http://www.memphis.edu/egypt/about/
+2015-11-17 23:51:16.380784	Thread 29, Total load=100 Crawled=11, Crawling http://www.memphis.edu/ugcatalog/collegeprog/ccfa/architecture.php
+2015-11-17 23:51:22.830153	Thread 39, Total load=100 Crawled=1, Crawling http://www.memphis.edu/msci/people/vnikifrv.php
+2015-11-17 23:51:25.956332	Thread 28, Total load=78 Crawled=11, Crawling http://www.memphis.edu/graduateadmissions/future/doctoral.php
+2015-11-17 23:51:35.251864	HTTP Error 404: Not Found: http://www.memphis.edu/suapp/docs/hcdinterimreport2014to2015.pdf
+2015-11-17 23:51:40.554167	Thread 27, Total load=50 Crawled=12, Crawling http://www.memphis.edu/suapp/reports/
+2015-11-17 23:51:43.918359	Thread 3, Total load=70 Crawled=31, Crawling http://www.memphis.edu/gradcatalog/degree_planning/bus/fin.php
+2015-11-17 23:51:47.149544	Thread 38, Total load=100 Crawled=3, Crawling http://www.memphis.edu/umtech/teaching/news.php
+2015-11-17 23:51:51.244778	Thread 6 deleted
+2015-11-17 23:51:54.314954	Thread 26, Total load=65 Crawled=13, Crawling http://www.memphis.edu/ugcatalog/coursedescrip/cas/religious_studies.php
+2015-11-17 23:51:57.404131	Thread 37, Total load=100 Crawled=3, Crawling http://www.memphis.edu/psychology/people/faculty/berlin.php
+2015-11-17 23:52:00.392301	Thread 10, Total load=100 Crawled=54, Crawling http://www.memphis.edu/admissions/pdfs/acc_ba_ma_form.pdf
+2015-11-17 23:52:03.487479	Thread 12, Total load=100 Crawled=27, Crawling http://www.memphis.edu/uofmonline/Programs/ma_esl.php
+2015-11-17 23:52:05.525595	Thread 10, Total load=100 Crawled=55, Crawling http://www.memphis.edu/admissions/pdfs/ap_table.pdf
+2015-11-17 23:52:06.597656	Thread 1, Total load=100 Crawled=32, Crawling http://www.memphis.edu/libraries/help/askalibrarian.php
+2015-11-17 23:52:09.695834	Thread 30, Total load=100 Crawled=19, Crawling http://www.memphis.edu/benefits/pdf/vsp_enroll.pdf
+2015-11-17 23:52:12.066969	Thread 10, Total load=100 Crawled=56, Crawling http://www.memphis.edu/admissions/pdfs/affidavit.pdf
+2015-11-17 23:52:13.512052	Thread 25, Total load=100 Crawled=14, Crawling http://www.memphis.edu/psychology/centers/psc.php
+2015-11-17 23:52:14.804126	Thread 30, Total load=100 Crawled=20, Crawling http://www.memphis.edu/benefits/info/workerscomp.php
+2015-11-17 23:52:16.351214	Thread 34 'charmap' codec can't encode character '\u0151' in position 5082: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:52:17.299269	Thread 10, Total load=100 Crawled=57, Crawling http://www.memphis.edu/dualenrollment/
+2015-11-17 23:52:18.309326	Thread 24, Total load=77 Crawled=15, Crawling http://www.memphis.edu/nso/information/index_fall.php
+2015-11-17 23:52:21.355501	Thread 34, Total load=100 Crawled=6, Crawling http://www.memphis.edu/msci/news/
+2015-11-17 23:52:26.423790	Thread 36, Total load=89 Crawled=7, Crawling http://umwa.memphis.edu/umpolicies//prb.htm
+2015-11-17 23:52:29.381960	Thread 11, Total load=100 Crawled=28, Crawling http://www.memphis.edu/gamblingclinic/
+2015-11-17 23:52:32.258124	Thread 18, Total load=100 Crawled=51, Crawling http://www.memphis.edu/parking/permit/
+2015-11-17 23:52:35.459307	Thread 22, Total load=81 Crawled=18, Crawling http://www.memphis.edu/ugcatalog/services/other.php
+2015-11-17 23:52:38.712493	Thread 15, Total load=100 Crawled=23, Crawling http://www.memphis.edu/parking/satellite/
+2015-11-17 23:52:41.845672	Thread 32, Total load=100 Crawled=8, Crawling http://www.memphis.edu/bf/communications.php
+2015-11-17 23:52:45.060856	Thread 19, Total load=100 Crawled=28, Crawling http://www.memphis.edu/rsp/compliance/faq.php
+2015-11-17 23:52:50.408162	Thread 23, Total load=59 Crawled=18, Crawling http://www.memphis.edu/records/staff.php
+2015-11-17 23:52:50.423163	Thread 5, Total load=45 Crawled=31, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-51.3802.htm
+2015-11-17 23:52:53.627346	Thread 33, Total load=100 Crawled=9, Crawling http://www.memphis.edu/me/research/albc.php
+2015-11-17 23:52:56.797528	Thread 31, Total load=100 Crawled=9, Crawling http://www.memphis.edu/egypt/
+2015-11-17 23:52:59.749697	Thread 21, Total load=61 Crawled=20, Crawling http://www.memphis.edu/law/documents/2015-factsheet.pdf
+2015-11-17 23:53:00.137719	Thread 21 'charmap' codec can't encode character '\u02da' in position 907: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:53:00.779755	Thread 41 pushed to busy thread list
+2015-11-17 23:53:00.787756	Thread 41, Total load=100 Crawled=0, Crawling http://bf.memphis.edu/fecc/capacity.php
+2015-11-17 23:53:02.767869	Thread 20, Total load=100 Crawled=22, Crawling http://www.memphis.edu/admissions/freshmen/nonres_tuition.php
+2015-11-17 23:53:05.140005	Thread 21, Total load=61 Crawled=21, Crawling http://www.memphis.edu/law/documents/2015-viewbook.pdf
+2015-11-17 23:53:05.785042	Thread 13, Total load=70 Crawled=26, Crawling http://www.memphis.edu/lead/docs/pos_ms_lead-2.doc
+2015-11-17 23:53:05.790042	Thread 2, Total load=34 Crawled=32, Crawling http://www.memphis.edu/notice/
+2015-11-17 23:53:05.888048	Thread 13 'charmap' codec can't encode character '\u0871' in position 1: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:53:08.848217	Thread 40, Total load=100 Crawled=1, Crawling http://www.memphis.edu/msci/ugrad/advising.php
+2015-11-17 23:53:10.909335	Thread 13, Total load=70 Crawled=27, Crawling http://www.memphis.edu/lead/pdfs/course-schedule-for-ms-lead.pdf
+2015-11-17 23:53:13.089460	Thread 21 'charmap' codec can't encode character '\u02da' in position 607: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:53:15.098574	Thread 9, Total load=58 Crawled=28, Crawling http://www.memphis.edu/accountancy/faculty/kbwalker.php
+2015-11-17 23:53:16.565658	Thread 13, Total load=70 Crawled=28, Crawling http://www.memphis.edu/lead/hiad/online_ms_orientation.php
+2015-11-17 23:53:18.092746	Thread 21, Total load=61 Crawled=22, Crawling http://www.memphis.edu/law/admissions/viewbook-request.php
+2015-11-17 23:53:19.151806	Thread 35, Total load=100 Crawled=19, Crawling http://www.memphis.edu/egypt/location/
+2015-11-17 23:53:22.349989	Thread 29, Total load=100 Crawled=12, Crawling http://www.memphis.edu/ugcatalog/collegeprog/cas/international.php
+2015-11-17 23:53:26.102204	Thread 39, Total load=100 Crawled=2, Crawling http://www.memphis.edu/msci/people/ccrousse.php
+2015-11-17 23:53:29.058373	Thread 28, Total load=78 Crawled=12, Crawling http://www.memphis.edu/graduateadmissions/future/eds.php
+2015-11-17 23:53:32.342561	Thread 27, Total load=50 Crawled=13, Crawling http://www.memphis.edu/suapp/contact.php
+2015-11-17 23:53:35.416737	Thread 3, Total load=70 Crawled=32, Crawling http://www.memphis.edu/gradcatalog/degree_planning/bus/bit.php
+2015-11-17 23:53:37.314845	HTTP Error 403: Forbidden: http://www.memphis.edu/ugcatalog/coursedescrip/cas
+2015-11-17 23:53:40.138007	Thread 38, Total load=100 Crawled=4, Crawling http://www.memphis.edu/umtech/teaching/events.php
+2015-11-17 23:53:43.594204	Thread 26, Total load=65 Crawled=14, Crawling http://www.memphis.edu/ugcatalog/collegeprog/Univ_college/religious_studies.php
+2015-11-17 23:53:46.496370	Thread 37, Total load=100 Crawled=4, Crawling http://www.memphis.edu/psychology/people/faculty/berman.php
+2015-11-17 23:53:46.921395	HTTP Error 403: Forbidden: http://www.memphis.edu/libraries/help
+2015-11-17 23:53:49.426538	Thread 12, Total load=100 Crawled=28, Crawling http://www.memphis.edu/uofmonline/Programs/ma_hist.php
+2015-11-17 23:53:52.526715	Thread 1, Total load=100 Crawled=33, Crawling http://www.memphis.edu/admissions/visitcampus.php
+2015-11-17 23:53:55.716898	Thread 25, Total load=100 Crawled=15, Crawling http://www.memphis.edu/psychology/teachingtakeout/
+2015-11-17 23:53:58.382050	Thread 30, Total load=100 Crawled=21, Crawling http://www.memphis.edu/ehs/pdfs/accident_report_form.pdf
+2015-11-17 23:53:58.535059	Thread 30 'charmap' codec can't encode character '\ufb01' in position 1893: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:54:01.503229	Thread 10, Total load=100 Crawled=58, Crawling http://www.memphis.edu/admissions/tcr_instructions.php
+2015-11-17 23:54:02.751300	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/students
+2015-11-17 23:54:03.108320	HTTP Error 404: Not Found: http://web0.msci.memphis.edu/Student NSF.html
+2015-11-17 23:54:03.414338	Thread 34 'charmap' codec can't encode character '\u0151' in position 5581: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:54:03.415338	HTTP Error 404: Not Found: http://umwa.memphis.edu/umpolicies//prb.htm/umpolicies.php
+2015-11-17 23:54:03.493342	HTTP Error 404: Not Found: http://umwa.memphis.edu/umpolicies//prb.htm/prb.htm
+2015-11-17 23:54:03.538345	Thread 30, Total load=100 Crawled=22, Crawling http://www.memphis.edu/search/
+2015-11-17 23:54:03.578347	HTTP Error 404: Not Found: http://umwa.memphis.edu/umpolicies//prb.htm/prbform.docx
+2015-11-17 23:54:04.283388	Thread 24, Total load=77 Crawled=16, Crawling http://www.memphis.edu/nso/information/nso_guides.php
+2015-11-17 23:54:08.416624	Thread 34, Total load=100 Crawled=7, Crawling http://www.memphis.edu/msci/grad/msprogram.php
+2015-11-17 23:54:08.984657	Thread 36, Total load=89 Crawled=8, Crawling http://umwa.memphis.edu/policyeditor/
+2015-11-17 23:54:08.996657	Thread 36 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:54:11.865821	Thread 11, Total load=100 Crawled=29, Crawling http://www.memphis.edu/legal/
+2015-11-17 23:54:14.002944	Thread 36, Total load=89 Crawled=9, Crawling http://umwa.memphis.edu/umpolicies//UM1293.htm
+2015-11-17 23:54:14.523973	Thread 18, Total load=100 Crawled=52, Crawling http://www.memphis.edu/parking/resources/
+2015-11-17 23:54:17.475142	Thread 22, Total load=81 Crawled=19, Crawling http://www.memphis.edu/gradschool/current_students/graduation_information/graduation_deadlines.php
+2015-11-17 23:54:20.293303	Thread 15, Total load=100 Crawled=24, Crawling http://www.memphis.edu/police/lambuthpolice.php
+2015-11-17 23:54:23.244472	Thread 32, Total load=100 Crawled=9, Crawling http://www.memphis.edu/bf/orgcharts.php
+2015-11-17 23:54:26.239643	Thread 19, Total load=100 Crawled=29, Crawling http://www.memphis.edu/rsp/compliance/glossary.php
+2015-11-17 23:54:30.973914	Thread 23, Total load=59 Crawled=19, Crawling http://www.memphis.edu/records/services.php
+2015-11-17 23:54:30.999916	Thread 5, Total load=45 Crawled=32, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-51.3817.htm
+2015-11-17 23:56:31.669818	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>: http://www.memphis.edu/about
+2015-11-17 23:56:31.878830	Thread 42 pushed to busy thread list
+2015-11-17 23:56:31.885830	Thread 42, Total load=100 Crawled=0, Crawling http://umwa.memphis.edu/umpolicies//umpolicies.php/UM1527.htm
+2015-11-17 23:56:32.874887	Thread 33, Total load=100 Crawled=10, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms//gedt-32-print.html
+2015-11-17 23:56:36.885116	Thread 31, Total load=100 Crawled=10, Crawling http://www.memphis.edu/benhooks/
+2015-11-17 23:56:37.265138	Thread 41, Total load=100 Crawled=1, Crawling http://bf.memphis.edu/fecc/faq.php
+2015-11-17 23:56:37.939176	Thread 33, Total load=100 Crawled=11, Crawling http://www.memphis.edu/registrar/pdf-docs/forms/lambuth_transcript.pdf
+2015-11-17 23:56:40.281310	Thread 20, Total load=100 Crawled=23, Crawling http://www.memphis.edu/admissions/freshmen/app_fee_waiver.php
+2015-11-17 23:56:43.041468	Thread 33, Total load=100 Crawled=12, Crawling http://www.memphis.edu/registrar/pdf-docs/forms/lambuth_medrec.pdf
+2015-11-17 23:56:43.485493	Thread 2, Total load=34 Crawled=33, Crawling http://www.memphis.edu/oie/eo-aa/eoaa-policy.php
+2015-11-17 23:56:46.632673	Thread 40, Total load=100 Crawled=2, Crawling http://www.memphis.edu/msci/ugrad/scholarships.php
+2015-11-17 23:56:48.109758	Thread 33, Total load=100 Crawled=13, Crawling http://www.memphis.edu/tigercopy/staff.php
+2015-11-17 23:56:49.578842	Thread 9, Total load=58 Crawled=29, Crawling http://www.memphis.edu/accountancy/faculty/jzhang5.php
+2015-11-17 23:56:52.373002	Thread 13, Total load=70 Crawled=29, Crawling http://www.memphis.edu/law/current-students/
+2015-11-17 23:56:55.987209	Thread 21, Total load=61 Crawled=23, Crawling http://www.memphis.edu/law/admissions/bragging-rights.php
+2015-11-17 23:56:59.112387	Thread 35, Total load=100 Crawled=20, Crawling http://www.memphis.edu/egypt/teaching/
+2015-11-17 23:57:01.972551	Thread 29, Total load=100 Crawled=13, Crawling http://www.memphis.edu/ugcatalog/collegeprog/ccfa/art.php
+2015-11-17 23:57:04.886718	Thread 39, Total load=100 Crawled=3, Crawling http://www.memphis.edu/msci/people/rtrggani.php
+2015-11-17 23:57:07.830886	Thread 28, Total load=78 Crawled=13, Crawling http://www.memphis.edu/rsp/sponsored_programs/standard_information.php
+2015-11-17 23:57:10.799056	Thread 27, Total load=50 Crawled=14, Crawling http://www.memphis.edu/bursar/info/
+2015-11-17 23:57:13.811228	Thread 3, Total load=70 Crawled=33, Crawling http://www.memphis.edu/gradcatalog/degree_planning/bus/econ.php
+2015-11-17 23:57:16.712394	Thread 38, Total load=100 Crawled=5, Crawling http://www.memphis.edu/umtech/teaching/ecwstudent.php
+2015-11-17 23:57:19.868574	Thread 26, Total load=65 Crawled=15, Crawling http://www.memphis.edu/ugcatalog/collegeprog/cas/religious_studies.php
+2015-11-17 23:57:20.484610	HTTP Error 404: Not Found: http://www.memphis.edu/history/grad.htm
+2015-11-17 23:57:22.841745	Thread 37, Total load=100 Crawled=5, Crawling http://www.memphis.edu/psychology/people/faculty/bowers.php
+2015-11-17 23:57:25.739910	Thread 12, Total load=100 Crawled=29, Crawling http://www.memphis.edu/uofmonline/Programs/ma_cjus.php
+2015-11-17 23:57:29.419121	Thread 1, Total load=100 Crawled=34, Crawling http://www.memphis.edu/truebluetiger/
+2015-11-17 23:57:32.559300	Thread 25, Total load=100 Crawled=16, Crawling http://umwa.memphis.edu/campusmap/parkavenue.php
+2015-11-17 23:57:35.445465	Thread 10, Total load=100 Crawled=59, Crawling http://www.memphis.edu/truebluefuture/
+2015-11-17 23:57:38.696651	Thread 30, Total load=100 Crawled=23, Crawling http://www.memphis.edu/chucalissa/nagpra.php
+2015-11-17 23:57:43.007898	Thread 24, Total load=77 Crawled=17, Crawling http://www.memphis.edu/nso/information/nso_contact.php
+2015-11-17 23:57:43.761941	HTTP Error 404: Not Found: http://www.memphis.edu/ehs/pdfs/chp2005.pdf
+2015-11-17 23:57:43.781942	HTTP Error 404: Not Found: http://www.memphis.edu/ehs/pdfs/radman2001.pdf
+2015-11-17 23:57:45.851061	Thread 34, Total load=100 Crawled=8, Crawling http://www.memphis.edu/msci/grad/phdprogram.php
+2015-11-17 23:57:48.753227	Thread 11, Total load=100 Crawled=30, Crawling http://www.memphis.edu/testing/services/mat.php
+2015-11-17 23:57:48.906235	Thread 36, Total load=89 Crawled=10, Crawling http://umwa.memphis.edu/umpolicies//UM1788.htm
+2015-11-17 23:57:49.211253	HTTP Error 403: Forbidden: http://www.memphis.edu/gradschool/current_students/graduation_information
+2015-11-17 23:57:51.815402	Thread 18, Total load=100 Crawled=53, Crawling http://www.memphis.edu/parking/blueline/bluelinefaqs.php
+2015-11-17 23:57:54.139535	Thread 36, Total load=89 Crawled=11, Crawling http://umwa.memphis.edu/umpolicies//UM1786.htm
+2015-11-17 23:57:54.812573	Thread 22, Total load=81 Crawled=20, Crawling http://www.memphis.edu/gradschool/faculty_staff/graduate_faculty/gradfaculty.php
+2015-11-17 23:57:57.667736	Thread 15, Total load=100 Crawled=25, Crawling http://www.memphis.edu/gradcatalog/about/
+2015-11-17 23:58:00.568902	Thread 32, Total load=100 Crawled=10, Crawling http://www.memphis.edu/bf/forms/tech.php
+2015-11-17 23:58:01.537958	Thread 43 pushed to busy thread list
+2015-11-17 23:58:01.543958	Thread 43, Total load=100 Crawled=0, Crawling http://umwa.memphis.edu/umpolicies//umpolicies.php/UM1616.htm
+2015-11-17 23:58:03.455067	Thread 19, Total load=100 Crawled=30, Crawling http://www.memphis.edu/rsp/compliance/irb_forms.php
+2015-11-17 23:58:03.485069	Thread 5, Total load=45 Crawled=33, Crawling http://oir.memphis.edu/WebReports/GainfulEmployment/GEPrograms/gedt-003509-51.3899.htm
+2015-11-17 23:58:06.543244	Thread 23, Total load=59 Crawled=20, Crawling http://www.memphis.edu/records/deadline.php
+2015-11-17 23:58:11.927552	Thread 42, Total load=100 Crawled=1, Crawling http://umwa.memphis.edu/umpolicies//umpolicies.php/UM1713.htm
+2015-11-17 23:58:14.851719	Thread 31, Total load=100 Crawled=11, Crawling http://www.memphis.edu/indium/
+2015-11-17 23:58:14.884721	Thread 41, Total load=100 Crawled=2, Crawling http://bf.memphis.edu/fecc/hi_brochure.pdf
+2015-11-17 23:58:15.032730	HTTP Error 403: Forbidden: http://www.memphis.edu/oie/eo-aa
+2015-11-17 23:58:17.769886	Thread 20, Total load=100 Crawled=24, Crawling http://www.memphis.edu/admissions/freshmen/app_ack.php
+2015-11-17 23:58:18.110906	Thread 41 Error in urlcrawler: too few words in page or page cannot be read
+2015-11-17 23:58:22.260143	Thread 2 deleted
+2015-11-17 23:58:23.114192	Thread 41, Total load=100 Crawled=3, Crawling http://bf.memphis.edu/fecc/accommodations.php
+2015-11-17 23:58:25.665338	Thread 40, Total load=100 Crawled=3, Crawling http://www.memphis.edu/msci/ugrad/courses.php
+2015-11-17 23:58:28.528502	Thread 33, Total load=100 Crawled=14, Crawling http://www.memphis.edu/tigercopy/omv.php
+2015-11-17 23:58:31.475670	Thread 9, Total load=58 Crawled=30, Crawling http://www.memphis.edu/uofmonline/Programs/
+2015-11-17 23:58:34.431839	Thread 13, Total load=70 Crawled=30, Crawling http://www.memphis.edu/law/about/
+2015-11-17 23:58:37.403009	Thread 21, Total load=61 Crawled=24, Crawling http://www.memphis.edu/law/admissions/tuition-financial-aid.php
+2015-11-17 23:58:40.600192	Thread 35, Total load=100 Crawled=21, Crawling http://www.memphis.edu/egypt/staff/
+2015-11-17 23:58:43.824376	Thread 29, Total load=100 Crawled=14, Crawling http://www.memphis.edu/ugcatalog/collegeprog/ccfa/art_history.php
+2015-11-17 23:58:46.920554	Thread 39, Total load=100 Crawled=4, Crawling http://www.memphis.edu/msci/people/mwierdl.php
+2015-11-17 23:58:50.487758	Thread 28, Total load=78 Crawled=14, Crawling http://umwa.memphis.edu/umpolicies/
+2015-11-17 23:58:51.607822	HTTP Error 404: Not Found: http://economics.memphis.edu/acad_
+2015-11-17 23:58:53.404924	Thread 27, Total load=50 Crawled=15, Crawling http://www.memphis.edu/bursar/info/financial-aid.php
+2015-11-17 23:58:56.856122	Thread 3, Total load=70 Crawled=34, Crawling http://www.memphis.edu/gradcatalog/degree_planning/bus/mgmt.php
+2015-11-17 23:59:05.989644	Thread 38, Total load=100 Crawled=6, Crawling http://www.memphis.edu/umtech/teaching/ecwfaculty.php
+2015-11-17 23:59:23.291634	Thread 26, Total load=65 Crawled=16, Crawling http://www.memphis.edu/rlgn/internships.php
+2015-11-17 23:59:26.229802	Thread 37, Total load=100 Crawled=6, Crawling http://www.memphis.edu/psychology/people/faculty/braasch.php
+2015-11-17 23:59:27.621882	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/campusmap.pdf
+2015-11-17 23:59:27.631882	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/satimage.pdf
+2015-11-17 23:59:27.641883	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/emergencyaccess.pdf
+2015-11-17 23:59:27.650883	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/park_avenue_campus.pdf
+2015-11-17 23:59:27.660884	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/parkingmap.pdf
+2015-11-17 23:59:27.669884	HTTP Error 404: Not Found: http://bf.memphis.edu/cpd/pdf/survey.pdf
+2015-11-17 23:59:29.208972	Thread 12, Total load=100 Crawled=30, Crawling http://www.memphis.edu/uofmonline/Programs/ms_apcs.php
+2015-11-17 23:59:32.403155	Thread 1, Total load=100 Crawled=35, Crawling http://www.memphis.edu/financialaid/
+2015-11-17 23:59:33.621225	Thread 25, Total load=100 Crawled=17, Crawling http://www.memphis.edu/oso/exploreprograms/virtualtour.php
+2015-11-17 23:59:36.628397	Thread 10, Total load=100 Crawled=60, Crawling http://www.memphis.edu/idt/
+2015-11-17 23:59:40.194601	Thread 30, Total load=100 Crawled=24, Crawling http://www.memphis.edu/chucalissa/kids/chucalissakids.php
+2015-11-17 23:59:43.189772	Thread 24, Total load=77 Crawled=18, Crawling http://www.memphis.edu/nso/information/nso_faqs_spring.php
+2015-11-17 23:59:46.344952	Thread 34, Total load=100 Crawled=9, Crawling http://www.memphis.edu/msci/ugrad/abm.php
+2015-11-17 23:59:47.592024	HTTP Error 404: Not Found: http://www.memphis.edu/studentaffairs/vpoffice
+2015-11-17 23:59:47.622025	HTTP Error 404: Not Found: http://www.memphis.edu/studentconduct/studenthandbook.htm
+2015-11-17 23:59:49.415128	Thread 11, Total load=100 Crawled=31, Crawling http://www.memphis.edu/annualgiving/matching.php
+2015-11-17 23:59:50.456188	HTTP Error 403: Forbidden: http://www.memphis.edu/gradschool/faculty_staff/graduate_faculty
+2015-11-17 23:59:52.548307	Thread 18, Total load=100 Crawled=54, Crawling http://www.memphis.edu/parking/blueline/shuttleresfaqs.php
+2015-11-17 23:59:52.641313	Thread 36, Total load=89 Crawled=12, Crawling http://umwa.memphis.edu/umpolicies//UM1718.htm
+2015-11-17 23:59:56.395527	Thread 22, Total load=81 Crawled=21, Crawling http://www.memphis.edu/gradschool/pdfs/forms/apa_checklist.pdf
+2015-11-17 23:59:56.594539	Thread 22 'charmap' codec can't encode character '\ufb01' in position 517: character maps to <undefined> Exception; Exception occured in urlcrawler.
+2015-11-17 23:59:57.953616	Thread 44 pushed to busy thread list
+2015-11-17 23:59:57.958617	Thread 44, Total load=100 Crawled=0, Crawling http://www.memphis.edu/law/programs/housing-adjudication-clinic.php
+2015-11-17 23:59:59.586710	Thread 15, Total load=100 Crawled=26, Crawling http://www.memphis.edu/gradcatalog/archive/

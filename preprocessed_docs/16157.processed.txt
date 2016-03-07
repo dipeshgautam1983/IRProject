@@ -1,0 +1,2 @@
+http://www.memphis.edu/cs/pdfs/2015ug_coll_mccracken.pdf
+abstract modern integr develop environ host tool make develop experi effici frustrat talk introduc basic advanc featur common mainstream ide tool includ code gener refactor quick fix context menu debug profil wednesday octob undergradu colloquium integr develop environ ide ernest mccracken ibm univers memphi midsouth maker memphi game develop
