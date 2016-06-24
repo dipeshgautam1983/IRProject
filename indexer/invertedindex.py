@@ -5,7 +5,13 @@ __author__ = 'Dipesh Gautam' \
 
 from lib import tokengenerator
 import math
-def pushonposting(text, docid, postinglist={}, doclensqrlist = {}):
+def pushonposting(text, docid, postinglist=None, doclensqrlist = None):
+    
+    if postinglist == None:
+        postinglist={}
+    if doclensqrlist == None:
+        doclensqrlist = {}
+    
     tokens = tokengenerator.gettokens(text)
 
     '''create inverted index'''
@@ -51,7 +57,15 @@ def calculatedocumentvectorlengths(postinglist, doclensqrlist):
 import os
 import io
 import re
-def createinvertedindex(srcfolder, postinglist={}, doclensqrlist={}, docurlmap = {}):
+def createinvertedindex(srcfolder, postinglist=None, doclensqrlist=None, docurlmap = None):
+    
+    if postinglist == None:
+        postinglist = {}
+    if doclensqrlist == None
+        doclensqrlist = {}
+    if docurlmap == None
+        docurlmap = {}
+    
     inputfiles = os.listdir(srcfolder)
     if len(inputfiles) <= 0:
         print("No files in source directory\nPlease try again later\nBye!!")
