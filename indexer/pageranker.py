@@ -19,8 +19,10 @@ def computesimilarity(query,text):
     return similarity
 '''
 
-def getrankeddocumentlist(invertedindex, query="", doclensqrlist={}):
+def getrankeddocumentlist(invertedindex, query="", doclensqrlist=None):
 
+    if doclensqrlist == None:
+        doclensqrlist={}
     query = query.lower()
     '''preprocess query'''
     query = textpreprocessor.preprocess(query)
