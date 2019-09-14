@@ -6,5 +6,5 @@ This is a python implementation of:
 4. Built-in HTTP server that provides search service by sending search interface to browser, and routing search query to search engine
 
 ## Features:
-1. various crawler command (start, stop, pause etc) implemented
+1. various crawler commands (start, stop, pause etc)
 2. Crawler log
